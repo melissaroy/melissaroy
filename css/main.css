@@ -84,6 +84,10 @@ a.portfolio-arrow:focus {
 
 .intro-section{
 	height: auto;
+	padding: 5em 0;
+}
+.span-intro {
+	padding-right: 1em;
 }
 
 .left-about {
@@ -160,7 +164,7 @@ a.portfolio-arrow:focus {
 
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #1baf94;
+  color: #367f97;
 }
 
 .navbar-default .navbar-nav > .active > a,
@@ -190,8 +194,12 @@ a.port-links:focus {
 }
 
 h2 {
-	text-align: left;
+	color: white;
+	font-size: 2em;
+	font-family: 'Lato', helvetica, arial;
+	font-weight: 200;
 }
+
 
 h6{
 	text-align: left;
@@ -387,6 +395,12 @@ a:visited {
 	position: inherit;
 }
 
+@media (min-width: 450px) {
+	h2 {
+	font-size: 3em;
+	}
+}
+
 @media (min-width: 768px) {
 
  .navbar > .container .navbar-brand,
@@ -395,14 +409,13 @@ a:visited {
 	padding-top: 0px;
 	}
 
-.profile-img{
-	max-width: 80%;
-	width: 60%;
-	min-width:50%;
-	margin-right: auto;
-	margin-left: auto;
-	}
+.span-intro {
+	padding-right: 2em;
+}
 
+	h2 {
+	font-size: 4em;
+	}
 
 	.website-quote {
 	padding-top: 5%;
