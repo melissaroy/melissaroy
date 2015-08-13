@@ -33,7 +33,7 @@ of those sections to manage the look and feel of the site. */
     height: 100%;
     padding-top: 25px;
     text-align: center;
-    background-image: url("../images/broken_noise.png");
+    background-image: url("../images/intro-bg.jpg");
     background-repeat: repeat;
     border-bottom: 1px solid #1baf94;
     background-attachment:fixed;
