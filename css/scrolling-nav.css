@@ -40,12 +40,11 @@ of those sections to manage the look and feel of the site. */
 
 .about-section {
     height: auto;
-    padding-top: 5em;
     padding-bottom: 10%;
     text-align: center;
     overflow: visible;
     border-bottom: 1px solid #222;
-    background-attachment: fixed;
+    background-color: #fedaca;
 }
 
 @media (min-width: 768px) {
@@ -60,7 +59,6 @@ of those sections to manage the look and feel of the site. */
     padding-top: 80px;
     text-align: center;
     background: #fff;
-    margin-bottom: 10em;
     background-attachment: fixed;
 }
 
