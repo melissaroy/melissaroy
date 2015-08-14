@@ -44,7 +44,7 @@ of those sections to manage the look and feel of the site. */
     text-align: center;
     overflow: visible;
     border-bottom: 1px solid #222;
-    background-color: #fedaca;
+    background-color: #fde9db;
 }
 
 @media (min-width: 768px) {

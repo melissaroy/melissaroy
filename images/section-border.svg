@@ -1,9 +1,1141 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 1500 140.8" style="enable-background:new 0 0 1500 140.8;" xml:space="preserve">
+	 viewBox="0 -94.4 1500 273" style="enable-background:new 0 -94.4 1500 273;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#FDDACA;}
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#triangle36_114_);}
+	.st2{fill:url(#triangle36_115_);}
+	.st3{fill:url(#triangle36_116_);}
+	.st4{fill:url(#triangle36_117_);}
+	.st5{fill:url(#triangle36_118_);}
+	.st6{fill:url(#triangle36_119_);}
+	.st7{fill:url(#triangle36_120_);}
+	.st8{fill:url(#triangle36_121_);}
+	.st9{fill:url(#triangle36_122_);}
+	.st10{fill:url(#triangle36_123_);}
+	.st11{fill:url(#triangle36_124_);}
+	.st12{fill:url(#triangle36_125_);}
+	.st13{fill:url(#triangle36_126_);}
+	.st14{fill:url(#triangle36_127_);}
+	.st15{fill:url(#triangle36_128_);}
+	.st16{fill:url(#triangle36_129_);}
+	.st17{fill:url(#triangle36_130_);}
+	.st18{fill:url(#triangle36_131_);}
+	.st19{fill:url(#triangle36_132_);}
+	.st20{fill:url(#triangle36_133_);}
+	.st21{fill:url(#triangle36_134_);}
+	.st22{fill:url(#triangle36_135_);}
+	.st23{fill:url(#triangle36_136_);}
+	.st24{fill:url(#triangle36_137_);}
+	.st25{fill:url(#triangle36_139_);}
+	.st26{fill:url(#triangle36_140_);}
+	.st27{fill:url(#triangle36_141_);}
+	.st28{fill:url(#triangle36_142_);}
+	.st29{fill:url(#triangle36_143_);}
+	.st30{fill:url(#triangle36_144_);}
+	.st31{fill:url(#triangle36_145_);}
+	.st32{fill:url(#triangle36_146_);}
+	.st33{fill:url(#triangle36_147_);}
+	.st34{fill:url(#triangle36_148_);}
+	.st35{fill:url(#triangle36_149_);}
+	.st36{fill:url(#triangle36_150_);}
+	.st37{fill:url(#triangle36_151_);}
+	.st38{fill:url(#triangle36_152_);}
+	.st39{fill:url(#triangle36_153_);}
+	.st40{fill:url(#triangle36_154_);}
+	.st41{fill:url(#triangle36_155_);}
+	.st42{fill:url(#triangle36_156_);}
+	.st43{fill:url(#triangle36_162_);}
+	.st44{fill:url(#triangle36_163_);}
+	.st45{fill:url(#triangle36_164_);}
+	.st46{fill:url(#triangle36_165_);}
+	.st47{fill:url(#triangle36_166_);}
+	.st48{fill:url(#triangle36_167_);}
+	.st49{fill:url(#triangle36_168_);}
+	.st50{fill:url(#triangle36_169_);}
+	.st51{fill:url(#triangle36_170_);}
+	.st52{fill:url(#triangle36_171_);}
+	.st53{fill:url(#triangle36_172_);}
+	.st54{fill:url(#triangle36_173_);}
+	.st55{fill:url(#triangle36_174_);}
+	.st56{fill:url(#triangle36_175_);}
+	.st57{fill:url(#triangle36_176_);}
+	.st58{fill:url(#triangle36_177_);}
+	.st59{fill:url(#triangle36_179_);}
+	.st60{fill:url(#triangle36_180_);}
+	.st61{fill:url(#triangle36_181_);}
+	.st62{fill:url(#triangle36_182_);}
+	.st63{fill:url(#triangle36_183_);}
+	.st64{fill:url(#triangle36_186_);}
+	.st65{fill:url(#triangle36_187_);}
+	.st66{fill:url(#triangle36_188_);}
+	.st67{fill:url(#triangle36_189_);}
+	.st68{fill:url(#triangle36_190_);}
+	.st69{fill:url(#triangle36_191_);}
+	.st70{fill:url(#triangle36_192_);}
+	.st71{fill:url(#triangle36_193_);}
+	.st72{fill:url(#triangle36_197_);}
+	.st73{fill:url(#triangle36_198_);}
+	.st74{fill:url(#triangle36_199_);}
+	.st75{fill:url(#triangle36_200_);}
+	.st76{fill:url(#triangle36_201_);}
+	.st77{fill:url(#triangle36_202_);}
+	.st78{fill:url(#triangle36_203_);}
+	.st79{fill:url(#triangle36_204_);}
+	.st80{fill:url(#triangle36_205_);}
+	.st81{fill:url(#triangle36_206_);}
+	.st82{fill:url(#triangle36_207_);}
+	.st83{fill:url(#triangle36_208_);}
+	.st84{fill:url(#triangle36_209_);}
+	.st85{fill:url(#triangle36_210_);}
+	.st86{fill:url(#triangle36_211_);}
+	.st87{fill:url(#triangle36_212_);}
+	.st88{fill:url(#triangle36_213_);}
+	.st89{fill:url(#triangle36_214_);}
+	.st90{fill:url(#triangle36_215_);}
+	.st91{fill:url(#triangle36_217_);}
+	.st92{fill:url(#triangle36_219_);}
+	.st93{fill:url(#triangle36_220_);}
+	.st94{fill:url(#triangle36_221_);}
+	.st95{fill:url(#triangle36_222_);}
+	.st96{fill:url(#triangle36_223_);}
+	.st97{fill:url(#triangle36_224_);}
+	.st98{fill:url(#triangle36_225_);}
+	.st99{fill:url(#triangle36_226_);}
+	.st100{fill:url(#triangle36_227_);}
+	.st101{fill:url(#triangle36_228_);}
+	.st102{fill:url(#triangle36_229_);}
+	.st103{fill:url(#triangle36_230_);}
+	.st104{fill:url(#triangle36_231_);}
+	.st105{fill:url(#triangle36_232_);}
+	.st106{fill:url(#triangle36_233_);}
+	.st107{fill:url(#triangle36_234_);}
+	.st108{fill:url(#triangle36_235_);}
+	.st109{fill:url(#triangle36_236_);}
+	.st110{fill:url(#triangle36_237_);}
+	.st111{fill:url(#triangle36_238_);}
+	.st112{fill:url(#triangle36_239_);}
+	.st113{fill:url(#triangle36_240_);}
+	.st114{fill:url(#triangle36_241_);}
+	.st115{fill:url(#triangle36_245_);}
+	.st116{fill:url(#triangle36_246_);}
+	.st117{fill:url(#triangle36_247_);}
+	.st118{fill:url(#triangle36_248_);}
+	.st119{fill:url(#triangle36_249_);}
+	.st120{fill:url(#triangle36_250_);}
+	.st121{fill:url(#triangle36_251_);}
+	.st122{fill:url(#triangle36_253_);}
+	.st123{fill:url(#triangle36_256_);}
+	.st124{fill:url(#triangle36_258_);}
+	.st125{fill:url(#triangle36_259_);}
+	.st126{fill:url(#triangle36_260_);}
+	.st127{fill:url(#triangle36_261_);}
+	.st128{fill:url(#triangle36_262_);}
+	.st129{fill:url(#triangle36_263_);}
+	.st130{fill:url(#triangle36_264_);}
+	.st131{fill:url(#triangle36_265_);}
+	.st132{fill:url(#triangle36_266_);}
+	.st133{fill:url(#triangle36_267_);}
+	.st134{fill:url(#triangle36_268_);}
+	.st135{fill:url(#triangle36_269_);}
+	.st136{fill:url(#triangle36_270_);}
+	.st137{fill:url(#triangle36_271_);}
+	.st138{fill:url(#triangle36_272_);}
+	.st139{fill:url(#triangle36_273_);}
+	.st140{fill:url(#triangle36_274_);}
+	.st141{fill:url(#triangle36_275_);}
+	.st142{fill:url(#triangle36_276_);}
+	.st143{fill:url(#triangle36_277_);}
+	.st144{fill:url(#triangle36_278_);}
+	.st145{fill:url(#triangle36_279_);}
+	.st146{fill:url(#triangle36_280_);}
+	.st147{fill:url(#triangle36_282_);}
+	.st148{fill:url(#triangle36_283_);}
+	.st149{fill:url(#triangle36_289_);}
+	.st150{fill:url(#triangle36_290_);}
+	.st151{fill:url(#triangle36_292_);}
+	.st152{fill:url(#triangle36_293_);}
+	.st153{fill:url(#triangle36_295_);}
+	.st154{fill:url(#triangle36_296_);}
+	.st155{fill:url(#triangle36_301_);}
+	.st156{fill:url(#triangle36_302_);}
+	.st157{fill:url(#triangle36_303_);}
+	.st158{fill:url(#triangle36_304_);}
+	.st159{fill:url(#triangle36_305_);}
+	.st160{fill:url(#triangle36_306_);}
+	.st161{fill:url(#triangle36_307_);}
+	.st162{fill:url(#triangle36_308_);}
+	.st163{fill:url(#triangle36_309_);}
+	.st164{fill:url(#triangle36_310_);}
+	.st165{fill:url(#triangle36_311_);}
+	.st166{fill:url(#triangle36_312_);}
+	.st167{fill:url(#triangle36_313_);}
+	.st168{fill:url(#triangle36_314_);}
+	.st169{fill:url(#triangle36_315_);}
+	.st170{fill:url(#triangle36_316_);}
+	.st171{fill:url(#triangle36_317_);}
+	.st172{fill:url(#triangle36_318_);}
+	.st173{fill:url(#triangle36_319_);}
+	.st174{fill:url(#triangle36_320_);}
+	.st175{fill:url(#triangle36_321_);}
+	.st176{fill:url(#triangle36_322_);}
+	.st177{fill:url(#triangle36_323_);}
+	.st178{fill:url(#triangle36_324_);}
+	.st179{fill:url(#triangle36_325_);}
+	.st180{fill:url(#triangle36_326_);}
+	.st181{fill:url(#triangle36_327_);}
+	.st182{fill:url(#triangle36_328_);}
+	.st183{fill:url(#triangle36_329_);}
+	.st184{fill:url(#triangle36_330_);}
+	.st185{fill:url(#triangle36_331_);}
+	.st186{fill:url(#triangle36_332_);}
+	.st187{fill:url(#triangle36_333_);}
+	.st188{fill:url(#triangle36_334_);}
 </style>
-<polygon class="st0" points="1567,0 -355,148.9 1567,148.9 "/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-6.7196" y1="117.1917" x2="1500" y2="117.1917">
+	<stop  offset="0" style="stop-color:#FEE8DB"/>
+	<stop  offset="1" style="stop-color:#FDE9DB"/>
+</linearGradient>
+<polygon class="st0" points="1500,40.1 -6.7,64.9 2.7,178.6 1500,194.3 "/>
+<linearGradient id="triangle36_114_" gradientUnits="userSpaceOnUse" x1="-15.7926" y1="101.9208" x2="-15.1825" y2="101.3107" gradientTransform="matrix(-19 0 0 134 1151 -13582.8418)">
+	<stop  offset="0" style="stop-color:#FFE4D7"/>
+	<stop  offset="1" style="stop-color:#FFDDD0"/>
+</linearGradient>
+<polygon id="triangle36_3_" class="st1" points="1441.3,-7.5 1439.5,74.2 1451.1,-6.3 "/>
+<linearGradient id="triangle36_115_" gradientUnits="userSpaceOnUse" x1="-5.7036" y1="100.7869" x2="-5.0935" y2="100.1768" gradientTransform="matrix(-151 0 0 198 -313 -19770.6426)">
+	<stop  offset="0" style="stop-color:#DA8E8F"/>
+	<stop  offset="1" style="stop-color:#DD908F"/>
+</linearGradient>
+<polygon id="triangle36_6_" class="st2" points="557.9,172.5 465.8,160.9 510.3,51.7 "/>
+<linearGradient id="triangle36_116_" gradientUnits="userSpaceOnUse" x1="-1.2645" y1="103.1475" x2="-0.6544" y2="102.5374" gradientTransform="matrix(-174 0 0 103 1320 -10594.6416)">
+	<stop  offset="0" style="stop-color:#FFE4D9"/>
+	<stop  offset="1" style="stop-color:#FEE1D4"/>
+</linearGradient>
+<polygon id="triangle36_10_" class="st3" points="1451.1,-6.3 1448.1,-41.7 1554.2,21.2 "/>
+<linearGradient id="triangle36_117_" gradientUnits="userSpaceOnUse" x1="-2.921" y1="111.5933" x2="-2.3109" y2="110.9832" gradientTransform="matrix(-156 0 0 36 752 -4071.2422)">
+	<stop  offset="0" style="stop-color:#FEE6D2"/>
+	<stop  offset="1" style="stop-color:#FEE5D2"/>
+</linearGradient>
+<polygon id="triangle36_17_" class="st4" points="1207.7,-75.8 1202.2,-63 1112.5,-53.9 "/>
+<linearGradient id="triangle36_118_" gradientUnits="userSpaceOnUse" x1="-3.7849" y1="101.93" x2="-3.1748" y2="101.3199" gradientTransform="matrix(-144 0 0 118 562 -11919.6416)">
+	<stop  offset="0" style="stop-color:#FED8C4"/>
+	<stop  offset="1" style="stop-color:#FEDAC6"/>
+</linearGradient>
+<polygon id="triangle36_30_" class="st5" points="1069.2,120.6 1003.9,70.6 1091.8,48.6 "/>
+<linearGradient id="triangle36_119_" gradientUnits="userSpaceOnUse" x1="-0.9791" y1="101.8593" x2="-0.369" y2="101.2492" gradientTransform="matrix(-333 0 0 134 1135 -13582.8418)">
+	<stop  offset="0" style="stop-color:#FEE6D9"/>
+	<stop  offset="1" style="stop-color:#FEDCCC"/>
+</linearGradient>
+<polygon id="triangle36_45_" class="st6" points="1441.3,-7.5 1439.5,74.2 1238.2,42.5 "/>
+<linearGradient id="triangle36_120_" gradientUnits="userSpaceOnUse" x1="-0.9855" y1="101.4645" x2="-0.3754" y2="100.8544" gradientTransform="matrix(-330 0 0 142 1132 -14286.4424)">
+	<stop  offset="0" style="stop-color:#FEDACA"/>
+	<stop  offset="1" style="stop-color:#FEDECE"/>
+</linearGradient>
+<polygon id="triangle36_46_" class="st7" points="1439.5,74.2 1382.8,129.1 1238.2,42.5 "/>
+<linearGradient id="triangle36_121_" gradientUnits="userSpaceOnUse" x1="-1.3734" y1="100.7011" x2="-0.7634" y2="100.091" gradientTransform="matrix(-237 0 0 212 1039 -21160.4414)">
+	<stop  offset="0" style="stop-color:#FDE1D1"/>
+	<stop  offset="1" style="stop-color:#FEDDCD"/>
+</linearGradient>
+<polygon id="triangle36_47_" class="st8" points="1382.8,129.1 1262,171.9 1238.2,42.5 "/>
+<linearGradient id="triangle36_122_" gradientUnits="userSpaceOnUse" x1="-2.7982" y1="101.4004" x2="-2.1881" y2="100.7903" gradientTransform="matrix(-189 0 0 168 596 -16997.6426)">
+	<stop  offset="0" style="stop-color:#FFDECA"/>
+	<stop  offset="1" style="stop-color:#FEDCC7"/>
+</linearGradient>
+<polygon id="triangle36_52_" class="st9" points="1112.5,-53.9 1091.8,48.6 997.2,4.7 "/>
+<linearGradient id="triangle36_123_" gradientUnits="userSpaceOnUse" x1="-3.3269" y1="102.6855" x2="-2.7168" y2="102.0754" gradientTransform="matrix(-155 0 0 108 562 -11009.6416)">
+	<stop  offset="0" style="stop-color:#FFDBC6"/>
+	<stop  offset="1" style="stop-color:#FEDAC6"/>
+</linearGradient>
+<polygon id="triangle36_53_" class="st10" points="1091.8,48.6 1003.9,70.6 997.2,4.7 "/>
+<linearGradient id="triangle36_124_" gradientUnits="userSpaceOnUse" x1="-15.6833" y1="102.0999" x2="-15.0732" y2="101.4898" gradientTransform="matrix(-71 0 0 131 -939 -13318.2422)">
+	<stop  offset="0" style="stop-color:#FCBFAB"/>
+	<stop  offset="1" style="stop-color:#FBB5A2"/>
+</linearGradient>
+<polygon id="triangle36_54_" class="st11" points="176,-14.8 132.7,54.1 160.8,-25.8 "/>
+<linearGradient id="triangle36_125_" gradientUnits="userSpaceOnUse" x1="-4.6562" y1="126.165" x2="-4.0461" y2="125.5549" gradientTransform="matrix(-164 0 0 15 5 -1885.0422)">
+	<stop  offset="0" style="stop-color:#FEDDC8"/>
+	<stop  offset="1" style="stop-color:#FEDBC6"/>
+</linearGradient>
+<polygon id="triangle36_62_" class="st12" points="751.9,-0.2 651.9,2.9 750.7,9 "/>
+<linearGradient id="triangle36_126_" gradientUnits="userSpaceOnUse" x1="-4.0607" y1="111.6671" x2="-3.4506" y2="111.057" gradientTransform="matrix(-182 0 0 32 3 -3549.4421)">
+	<stop  offset="0" style="stop-color:#FEDCC7"/>
+	<stop  offset="1" style="stop-color:#FED6BF"/>
+</linearGradient>
+<polygon id="triangle36_63_" class="st13" points="651.9,2.9 639.7,22.4 750.7,9 "/>
+<linearGradient id="triangle36_127_" gradientUnits="userSpaceOnUse" x1="-5.3584" y1="100.8384" x2="-4.7483" y2="100.2283" gradientTransform="matrix(-171 0 0 179 -391 -17904.8418)">
+	<stop  offset="0" style="stop-color:#E49791"/>
+	<stop  offset="1" style="stop-color:#DA8C8E"/>
+</linearGradient>
+<polygon id="triangle36_79_" class="st14" points="510.3,51.7 465.8,160.9 406,79.7 "/>
+<linearGradient id="triangle36_128_" gradientUnits="userSpaceOnUse" x1="-5.1643" y1="101.6646" x2="-4.5542" y2="101.0546" gradientTransform="matrix(-171 0 0 153 -391 -15458.6416)">
+	<stop  offset="0" style="stop-color:#EEA195"/>
+	<stop  offset="1" style="stop-color:#F1AB9D"/>
+</linearGradient>
+<polygon id="triangle36_80_" class="st15" points="510.3,51.7 415.2,-13.6 406,79.7 "/>
+<linearGradient id="triangle36_129_" gradientUnits="userSpaceOnUse" x1="-4.1418" y1="100.7099" x2="-3.5317" y2="100.0998" gradientTransform="matrix(-182 0 0 210 3 -21019.041)">
+	<stop  offset="0" style="stop-color:#FAC4B1"/>
+	<stop  offset="1" style="stop-color:#F6B6A5"/>
+</linearGradient>
+<polygon id="triangle36_81_" class="st16" points="750.7,9 639.7,22.4 664.1,137.1 "/>
+<linearGradient id="triangle36_130_" gradientUnits="userSpaceOnUse" x1="-4.5307" y1="101.7672" x2="-3.9206" y2="101.1571" gradientTransform="matrix(-229 0 0 140 -710 -14184.042)">
+	<stop  offset="0" style="stop-color:#EC9C94"/>
+	<stop  offset="1" style="stop-color:#EDA79C"/>
+</linearGradient>
+<polygon id="triangle36_98_" class="st17" points="315.7,19.3 176,-14.8 279.1,70.6 "/>
+<linearGradient id="triangle36_131_" gradientUnits="userSpaceOnUse" x1="-15.0647" y1="101.1568" x2="-14.4546" y2="100.5467" gradientTransform="matrix(-76 0 0 163 -1031 -16310.6416)">
+	<stop  offset="0" style="stop-color:#FAB9A6"/>
+	<stop  offset="1" style="stop-color:#FECEB7"/>
+</linearGradient>
+<polygon id="triangle36_112_" class="st18" points="119.9,165.1 95.5,65.7 73.5,163.9 "/>
+<linearGradient id="triangle36_132_" gradientUnits="userSpaceOnUse" x1="-6.6024" y1="100.9846" x2="-5.9923" y2="100.3745" gradientTransform="matrix(-180 0 0 161 -1071 -16114.2422)">
+	<stop  offset="0" style="stop-color:#FED5C1"/>
+	<stop  offset="1" style="stop-color:#FEEAD9"/>
+</linearGradient>
+<polygon id="triangle36_113_" class="st19" points="95.5,65.7 -14.3,68.7 73.5,163.9 "/>
+<linearGradient id="triangle36_133_" gradientUnits="userSpaceOnUse" x1="-5.6085" y1="100.6285" x2="-4.9984" y2="100.0184" gradientTransform="matrix(-75 0 0 212 841 -21160.4414)">
+	<stop  offset="0" style="stop-color:#FEDACA"/>
+	<stop  offset="1" style="stop-color:#FEE0D0"/>
+</linearGradient>
+<polygon id="triangle36_138_" class="st20" points="1262,171.9 1238.2,42.5 1216.2,108.4 "/>
+<linearGradient id="triangle36_134_" gradientUnits="userSpaceOnUse" x1="-9.7995" y1="102.9486" x2="-9.1894" y2="102.3385" gradientTransform="matrix(-116 0 0 100 -1010 -10224.042)">
+	<stop  offset="0" style="stop-color:#F9AC9D"/>
+	<stop  offset="1" style="stop-color:#FCB6A2"/>
+</linearGradient>
+<polygon id="triangle36_157_" class="st21" points="132.7,54.1 95.5,65.7 61.9,4.7 "/>
+<linearGradient id="triangle36_135_" gradientUnits="userSpaceOnUse" x1="-6.4338" y1="102.7494" x2="-5.8237" y2="102.1393" gradientTransform="matrix(-180 0 0 105 -1071 -10715.042)">
+	<stop  offset="0" style="stop-color:#FEC3AD"/>
+	<stop  offset="1" style="stop-color:#FDCFBD"/>
+</linearGradient>
+<polygon id="triangle36_158_" class="st22" points="95.5,65.7 -14.3,68.7 61.9,4.7 "/>
+<linearGradient id="triangle36_136_" gradientUnits="userSpaceOnUse" x1="-9.2628" y1="103.6605" x2="-8.6527" y2="103.0504" gradientTransform="matrix(-128 0 0 92 -1126 -9530.4424)">
+	<stop  offset="0" style="stop-color:#FED6BF"/>
+	<stop  offset="1" style="stop-color:#FDC8B1"/>
+</linearGradient>
+<polygon id="triangle36_159_" class="st23" points="2.7,-51.4 -16.2,-31.3 61.9,4.7 "/>
+<linearGradient id="triangle36_137_" gradientUnits="userSpaceOnUse" x1="-9.5033" y1="102.7028" x2="-8.8932" y2="102.0927" gradientTransform="matrix(-125 0 0 105 -1126 -10715.042)">
+	<stop  offset="0" style="stop-color:#FEE1CE"/>
+	<stop  offset="1" style="stop-color:#FDCAB3"/>
+</linearGradient>
+<polygon id="triangle36_160_" class="st24" points="-14.3,68.7 -14.3,40.1 61.9,4.7 "/>
+<linearGradient id="triangle36_139_" gradientUnits="userSpaceOnUse" x1="-9.2073" y1="102.5735" x2="-8.5972" y2="101.9634" gradientTransform="matrix(-128 0 0 117 -1126 -11952.4424)">
+	<stop  offset="0" style="stop-color:#FFCBB5"/>
+	<stop  offset="1" style="stop-color:#FDC3AC"/>
+</linearGradient>
+<polygon id="triangle36_161_" class="st25" points="-14.3,40.1 -16.2,-31.3 61.9,4.7 "/>
+<linearGradient id="triangle36_140_" gradientUnits="userSpaceOnUse" x1="-50.6474" y1="111.5764" x2="-50.0373" y2="110.9663" gradientTransform="matrix(-9 0 0 36 752 -4071.2422)">
+	<stop  offset="0" style="stop-color:#FEE6D4"/>
+	<stop  offset="1" style="stop-color:#FDE6D6"/>
+</linearGradient>
+<polygon id="triangle36_178_" class="st26" points="1207.7,-75.8 1202.2,-63 1202.8,-53.9 "/>
+<linearGradient id="triangle36_141_" gradientUnits="userSpaceOnUse" x1="-1.4316" y1="102.064" x2="-0.8215" y2="101.4539" gradientTransform="matrix(-169 0 0 126 1320 -12795.2422)">
+	<stop  offset="0" style="stop-color:#FED9CA"/>
+	<stop  offset="1" style="stop-color:#FEDDCF"/>
+</linearGradient>
+<polygon id="triangle36_184_" class="st27" points="1554.2,21.2 1451.1,-6.3 1518.8,70.6 "/>
+<linearGradient id="triangle36_142_" gradientUnits="userSpaceOnUse" x1="-1.8453" y1="102.0899" x2="-1.2352" y2="101.4798" gradientTransform="matrix(-130 0 0 132 1262 -13384.4424)">
+	<stop  offset="0" style="stop-color:#FFE4D8"/>
+	<stop  offset="1" style="stop-color:#FED9CA"/>
+</linearGradient>
+<polygon id="triangle36_185_" class="st28" points="1451.1,-6.3 1439.5,74.2 1518.8,70.6 "/>
+<linearGradient id="triangle36_143_" gradientUnits="userSpaceOnUse" x1="-26.9789" y1="107.3475" x2="-26.3688" y2="106.7374" gradientTransform="matrix(-17 0 0 53 744 -5719.6421)">
+	<stop  offset="0" style="stop-color:#FEE3D5"/>
+	<stop  offset="1" style="stop-color:#FEE5D6"/>
+</linearGradient>
+<polygon id="triangle36_194_" class="st29" points="1202.8,-53.9 1202.2,-63 1192.4,-30.7 "/>
+<linearGradient id="triangle36_144_" gradientUnits="userSpaceOnUse" x1="-27.0498" y1="105.7194" x2="-26.4397" y2="105.1093" gradientTransform="matrix(-17 0 0 64 744 -6784.8423)">
+	<stop  offset="0" style="stop-color:#FEE4D5"/>
+	<stop  offset="1" style="stop-color:#FEE4D4"/>
+</linearGradient>
+<polygon id="triangle36_195_" class="st30" points="1202.8,-53.9 1200.4,-14.8 1192.4,-30.7 "/>
+<linearGradient id="triangle36_145_" gradientUnits="userSpaceOnUse" x1="-3.2331" y1="107.2292" x2="-2.623" y2="106.6191" gradientTransform="matrix(-147 0 0 53 743 -5719.6421)">
+	<stop  offset="0" style="stop-color:#FEE5D3"/>
+	<stop  offset="1" style="stop-color:#FFE3D1"/>
+</linearGradient>
+<polygon id="triangle36_196_" class="st31" points="1202.2,-63 1112.5,-53.9 1192.4,-30.7 "/>
+<linearGradient id="triangle36_146_" gradientUnits="userSpaceOnUse" x1="-3.0758" y1="102.0998" x2="-2.4657" y2="101.4897" gradientTransform="matrix(-137 0 0 104 841 -10446.8418)">
+	<stop  offset="0" style="stop-color:#FED8C7"/>
+	<stop  offset="1" style="stop-color:#FEDECD"/>
+</linearGradient>
+<polygon id="triangle36_216_" class="st32" points="1262,171.9 1216.2,108.4 1178.4,135.9 "/>
+<linearGradient id="triangle36_147_" gradientUnits="userSpaceOnUse" x1="-7.2316" y1="105.0317" x2="-6.6215" y2="104.4216" gradientTransform="matrix(-62 0 0 56 766 -5744.2422)">
+	<stop  offset="0" style="stop-color:#FDE1CE"/>
+	<stop  offset="1" style="stop-color:#FEDECC"/>
+</linearGradient>
+<polygon id="triangle36_218_" class="st33" points="1216.2,108.4 1194.9,101.7 1178.4,135.9 "/>
+<linearGradient id="triangle36_148_" gradientUnits="userSpaceOnUse" x1="-2.1034" y1="103.4435" x2="-1.4933" y2="102.8334" gradientTransform="matrix(-130 0 0 77 1262 -7857.4419)">
+	<stop  offset="0" style="stop-color:#FEDCCC"/>
+	<stop  offset="1" style="stop-color:#FED3C3"/>
+</linearGradient>
+<polygon id="triangle36_242_" class="st34" points="1518.8,70.6 1439.5,74.2 1506,117.6 "/>
+<linearGradient id="triangle36_149_" gradientUnits="userSpaceOnUse" x1="-1.3099" y1="100.8311" x2="-0.6998" y2="100.2211" gradientTransform="matrix(-218 0 0 157 1257 -15636.4424)">
+	<stop  offset="0" style="stop-color:#EDAFA6"/>
+	<stop  offset="1" style="stop-color:#FBCABA"/>
+</linearGradient>
+<polygon id="triangle36_243_" class="st35" points="1515.8,213.3 1382.8,129.1 1506,117.6 "/>
+<linearGradient id="triangle36_150_" gradientUnits="userSpaceOnUse" x1="-1.2296" y1="102.9399" x2="-0.6195" y2="102.3298" gradientTransform="matrix(-202 0 0 90 1241 -9128.042)">
+	<stop  offset="0" style="stop-color:#FFD0C0"/>
+	<stop  offset="1" style="stop-color:#FED0C0"/>
+</linearGradient>
+<polygon id="triangle36_244_" class="st36" points="1439.5,74.2 1382.8,129.1 1506,117.6 "/>
+<linearGradient id="triangle36_151_" gradientUnits="userSpaceOnUse" x1="-0.8441" y1="101.635" x2="-0.2341" y2="101.0249" gradientTransform="matrix(-333 0 0 163 1135 -16511.6426)">
+	<stop  offset="0" style="stop-color:#FEE8DA"/>
+	<stop  offset="1" style="stop-color:#FEE5D5"/>
+</linearGradient>
+<polygon id="triangle36_252_" class="st37" points="1441.3,-7.5 1238.2,42.5 1264.4,-56.9 "/>
+<linearGradient id="triangle36_152_" gradientUnits="userSpaceOnUse" x1="-4.0824" y1="101.4713" x2="-3.4723" y2="100.8612" gradientTransform="matrix(-105 0 0 163 845 -16511.6426)">
+	<stop  offset="0" style="stop-color:#FFE0D1"/>
+	<stop  offset="1" style="stop-color:#FEE5D5"/>
+</linearGradient>
+<polygon id="triangle36_254_" class="st38" points="1238.2,42.5 1200.4,-14.8 1264.4,-56.9 "/>
+<linearGradient id="triangle36_153_" gradientUnits="userSpaceOnUse" x1="-4.0213" y1="111.7247" x2="-3.4112" y2="111.1146" gradientTransform="matrix(-101 0 0 36 845 -4071.2422)">
+	<stop  offset="0" style="stop-color:#FEE6D4"/>
+	<stop  offset="1" style="stop-color:#FEE6D7"/>
+</linearGradient>
+<polygon id="triangle36_255_" class="st39" points="1207.7,-75.8 1202.8,-53.9 1264.4,-56.9 "/>
+<linearGradient id="triangle36_154_" gradientUnits="userSpaceOnUse" x1="-3.9944" y1="105.3044" x2="-3.3843" y2="104.6943" gradientTransform="matrix(-105 0 0 69 845 -7280.8423)">
+	<stop  offset="0" style="stop-color:#FEE4D5"/>
+	<stop  offset="1" style="stop-color:#FEE6D5"/>
+</linearGradient>
+<polygon id="triangle36_257_" class="st40" points="1202.8,-53.9 1200.4,-14.8 1264.4,-56.9 "/>
+<linearGradient id="triangle36_155_" gradientUnits="userSpaceOnUse" x1="-39.5399" y1="112.2828" x2="-38.9298" y2="111.6727" gradientTransform="matrix(-31 0 0 33 -1223 -3736.6423)">
+	<stop  offset="0" style="stop-color:#FFDFC9"/>
+	<stop  offset="1" style="stop-color:#FEDDC6"/>
+</linearGradient>
+<polygon id="triangle36_281_" class="st41" points="2.7,-51.4 -16.2,-31.3 -13.1,-49 "/>
+<linearGradient id="triangle36_156_" gradientUnits="userSpaceOnUse" x1="-5.3671" y1="101.4134" x2="-4.757" y2="100.8033" gradientTransform="matrix(-191 0 0 170 -770 -17130.041)">
+	<stop  offset="0" style="stop-color:#E69490"/>
+	<stop  offset="1" style="stop-color:#F3AD9F"/>
+</linearGradient>
+<polygon id="triangle36_284_" class="st42" points="279.1,70.6 176,-14.8 162.6,88.9 "/>
+<linearGradient id="triangle36_162_" gradientUnits="userSpaceOnUse" x1="-15.7554" y1="101.2366" x2="-15.1453" y2="100.6265" gradientTransform="matrix(-71 0 0 170 -939 -17130.041)">
+	<stop  offset="0" style="stop-color:#F7B7A6"/>
+	<stop  offset="1" style="stop-color:#F3A498"/>
+</linearGradient>
+<polygon id="triangle36_285_" class="st43" points="176,-14.8 132.7,54.1 162.6,88.9 "/>
+<linearGradient id="triangle36_163_" gradientUnits="userSpaceOnUse" x1="-16.0512" y1="101.6495" x2="-15.4411" y2="101.0394" gradientTransform="matrix(-70 0 0 125 -961 -12541.042)">
+	<stop  offset="0" style="stop-color:#E69792"/>
+	<stop  offset="1" style="stop-color:#F3A498"/>
+</linearGradient>
+<polygon id="triangle36_286_" class="st44" points="158.9,163.9 119.9,165.1 162.6,88.9 "/>
+<linearGradient id="triangle36_164_" gradientUnits="userSpaceOnUse" x1="-10.2481" y1="105.393" x2="-9.638" y2="104.7829" gradientTransform="matrix(-110 0 0 57 -961 -5920.4424)">
+	<stop  offset="0" style="stop-color:#FAAD9E"/>
+	<stop  offset="1" style="stop-color:#FAB2A0"/>
+</linearGradient>
+<polygon id="triangle36_287_" class="st45" points="132.7,54.1 95.5,65.7 162.6,88.9 "/>
+<linearGradient id="triangle36_165_" gradientUnits="userSpaceOnUse" x1="-10.2343" y1="101.0585" x2="-9.6242" y2="100.4484" gradientTransform="matrix(-110 0 0 163 -961 -16310.6416)">
+	<stop  offset="0" style="stop-color:#FAB1A0"/>
+	<stop  offset="1" style="stop-color:#FAB4A1"/>
+</linearGradient>
+<polygon id="triangle36_288_" class="st46" points="119.9,165.1 95.5,65.7 162.6,88.9 "/>
+<linearGradient id="triangle36_166_" gradientUnits="userSpaceOnUse" x1="-6.628" y1="100.6382" x2="-6.0179" y2="100.0281" gradientTransform="matrix(-130 0 0 198 -261 -19770.6426)">
+	<stop  offset="0" style="stop-color:#E39895"/>
+	<stop  offset="1" style="stop-color:#EFA398"/>
+</linearGradient>
+<polygon id="triangle36_291_" class="st47" points="557.9,172.5 510.3,51.7 589.6,57.2 "/>
+<linearGradient id="triangle36_167_" gradientUnits="userSpaceOnUse" x1="-6.5338" y1="100.7473" x2="-5.9237" y2="100.1372" gradientTransform="matrix(-130 0 0 244 -261 -24522.8418)">
+	<stop  offset="0" style="stop-color:#F9BDAD"/>
+	<stop  offset="1" style="stop-color:#F2AFA2"/>
+</linearGradient>
+<polygon id="triangle36_294_" class="st48" points="589.6,57.2 510.3,51.7 581.7,-91.7 "/>
+<linearGradient id="triangle36_168_" gradientUnits="userSpaceOnUse" x1="-14.2813" y1="100.9835" x2="-13.6712" y2="100.3734" gradientTransform="matrix(-56 0 0 188 -139 -18836.6426)">
+	<stop  offset="0" style="stop-color:#F3AC9E"/>
+	<stop  offset="1" style="stop-color:#FABBA8"/>
+</linearGradient>
+<polygon id="triangle36_297_" class="st49" points="664.1,137.1 639.7,22.4 629.9,99.9 "/>
+<linearGradient id="triangle36_169_" gradientUnits="userSpaceOnUse" x1="-4.5663" y1="101.7827" x2="-3.9562" y2="101.1726" gradientTransform="matrix(-174 0 0 119 -139 -11933.8418)">
+	<stop  offset="0" style="stop-color:#EFA69A"/>
+	<stop  offset="1" style="stop-color:#E9A099"/>
+</linearGradient>
+<polygon id="triangle36_298_" class="st50" points="664.1,137.1 557.9,172.5 629.9,99.9 "/>
+<linearGradient id="triangle36_170_" gradientUnits="userSpaceOnUse" x1="-10.0679" y1="101.8553" x2="-9.4578" y2="101.2452" gradientTransform="matrix(-82 0 0 127 -179 -12846.4424)">
+	<stop  offset="0" style="stop-color:#F9BEAA"/>
+	<stop  offset="1" style="stop-color:#F5AD9E"/>
+</linearGradient>
+<polygon id="triangle36_299_" class="st51" points="639.7,22.4 589.6,57.2 629.9,99.9 "/>
+<linearGradient id="triangle36_171_" gradientUnits="userSpaceOnUse" x1="-6.9343" y1="100.8518" x2="-6.3242" y2="100.2417" gradientTransform="matrix(-118 0 0 189 -195 -18877.8418)">
+	<stop  offset="0" style="stop-color:#F4AA9C"/>
+	<stop  offset="1" style="stop-color:#EBA299"/>
+</linearGradient>
+<polygon id="triangle36_300_" class="st52" points="589.6,57.2 557.9,172.5 629.9,99.9 "/>
+<linearGradient id="triangle36_172_" gradientUnits="userSpaceOnUse" x1="-5.2905" y1="102.3355" x2="-4.6804" y2="101.7254" gradientTransform="matrix(-83 0 0 108 802 -10947.6416)">
+	<stop  offset="0" style="stop-color:#FFDDCC"/>
+	<stop  offset="1" style="stop-color:#FEDDCC"/>
+</linearGradient>
+<polygon id="triangle36_344_" class="st53" points="1238.2,42.5 1216.2,108.4 1187.5,93.2 "/>
+<linearGradient id="triangle36_173_" gradientUnits="userSpaceOnUse" x1="-9.5326" y1="112.9443" x2="-8.9225" y2="112.3342" gradientTransform="matrix(-47 0 0 25 766 -2714.0422)">
+	<stop  offset="0" style="stop-color:#FEE0CE"/>
+	<stop  offset="1" style="stop-color:#FFDDCB"/>
+</linearGradient>
+<polygon id="triangle36_345_" class="st54" points="1216.2,108.4 1194.9,101.7 1187.5,93.2 "/>
+<linearGradient id="triangle36_174_" gradientUnits="userSpaceOnUse" x1="-17.1496" y1="103.8719" x2="-16.5395" y2="103.2618" gradientTransform="matrix(-27 0 0 70 731 -7133.042)">
+	<stop  offset="0" style="stop-color:#FEDECC"/>
+	<stop  offset="1" style="stop-color:#FEDBCA"/>
+</linearGradient>
+<polygon id="triangle36_346_" class="st55" points="1194.9,101.7 1178.4,135.9 1187.5,93.2 "/>
+<linearGradient id="triangle36_175_" gradientUnits="userSpaceOnUse" x1="-2.4696" y1="103.7869" x2="-1.8595" y2="103.1768" gradientTransform="matrix(-194 0 0 70 719 -7133.042)">
+	<stop  offset="0" style="stop-color:#FEDACA"/>
+	<stop  offset="1" style="stop-color:#FFDAC8"/>
+</linearGradient>
+<polygon id="triangle36_347_" class="st56" points="1178.4,135.9 1069.2,120.6 1187.5,93.2 "/>
+<linearGradient id="triangle36_176_" gradientUnits="userSpaceOnUse" x1="-2.3208" y1="102.1303" x2="-1.7107" y2="101.5202" gradientTransform="matrix(-194 0 0 118 719 -11919.6416)">
+	<stop  offset="0" style="stop-color:#FFD8C5"/>
+	<stop  offset="1" style="stop-color:#FFD8C5"/>
+</linearGradient>
+<polygon id="triangle36_348_" class="st57" points="1091.8,48.6 1069.2,120.6 1187.5,93.2 "/>
+<linearGradient id="triangle36_177_" gradientUnits="userSpaceOnUse" x1="-4.4681" y1="105.3067" x2="-3.8581" y2="104.6966" gradientTransform="matrix(-236 0 0 64 -703 -6728.8423)">
+	<stop  offset="0" style="stop-color:#F7AD9D"/>
+	<stop  offset="1" style="stop-color:#FEC5AF"/>
+</linearGradient>
+<polygon id="triangle36_356_" class="st58" points="315.7,19.3 176,-14.8 320,-19.7 "/>
+<linearGradient id="triangle36_179_" gradientUnits="userSpaceOnUse" x1="-8.2521" y1="101.9773" x2="-7.642" y2="101.3672" gradientTransform="matrix(-138 0 0 131 -964 -13318.2422)">
+	<stop  offset="0" style="stop-color:#FBB9A4"/>
+	<stop  offset="1" style="stop-color:#FAB5A4"/>
+</linearGradient>
+<polygon id="triangle36_370_" class="st59" points="160.8,-25.8 132.7,54.1 76.6,-25.8 "/>
+<linearGradient id="triangle36_180_" gradientUnits="userSpaceOnUse" x1="-8.0852" y1="104.8266" x2="-7.4751" y2="104.2165" gradientTransform="matrix(-138 0 0 77 -964 -8092.4419)">
+	<stop  offset="0" style="stop-color:#FEC8AF"/>
+	<stop  offset="1" style="stop-color:#FECCB5"/>
+</linearGradient>
+<polygon id="triangle36_371_" class="st60" points="160.8,-25.8 124.8,-72.8 76.6,-25.8 "/>
+<linearGradient id="triangle36_181_" gradientUnits="userSpaceOnUse" x1="-9.8241" y1="102.1056" x2="-9.214" y2="101.4955" gradientTransform="matrix(-116 0 0 131 -1010 -13318.2422)">
+	<stop  offset="0" style="stop-color:#F7A99B"/>
+	<stop  offset="1" style="stop-color:#FBB9A5"/>
+</linearGradient>
+<polygon id="triangle36_372_" class="st61" points="132.7,54.1 61.9,4.7 76.6,-25.8 "/>
+<linearGradient id="triangle36_182_" gradientUnits="userSpaceOnUse" x1="-9.7928" y1="103.5901" x2="-9.1827" y2="102.98" gradientTransform="matrix(-121 0 0 92 -1102 -9530.4424)">
+	<stop  offset="0" style="stop-color:#FDBDA7"/>
+	<stop  offset="1" style="stop-color:#FED0B9"/>
+</linearGradient>
+<polygon id="triangle36_374_" class="st62" points="61.9,4.7 2.7,-51.4 76.6,-25.8 "/>
+<linearGradient id="triangle36_183_" gradientUnits="userSpaceOnUse" x1="-6.4209" y1="100.4996" x2="-5.8108" y2="99.8896" gradientTransform="matrix(-109 0 0 257 95 -25634.4414)">
+	<stop  offset="0" style="stop-color:#FBBBA9"/>
+	<stop  offset="1" style="stop-color:#F6BCAD"/>
+</linearGradient>
+<polygon id="triangle36_395_" class="st63" points="806.8,121.8 750.7,9 740.3,165.8 "/>
+<linearGradient id="triangle36_186_" gradientUnits="userSpaceOnUse" x1="-5.2935" y1="100.362" x2="-4.6834" y2="99.7519" gradientTransform="matrix(-142 0 0 257 3 -25634.4414)">
+	<stop  offset="0" style="stop-color:#FAC5B2"/>
+	<stop  offset="1" style="stop-color:#EEA89C"/>
+</linearGradient>
+<polygon id="triangle36_396_" class="st64" points="750.7,9 664.1,137.1 740.3,165.8 "/>
+<linearGradient id="triangle36_187_" gradientUnits="userSpaceOnUse" x1="-3.6786" y1="102.8281" x2="-3.0685" y2="102.218" gradientTransform="matrix(-116 0 0 107 802 -10943.4424)">
+	<stop  offset="0" style="stop-color:#FFDFCE"/>
+	<stop  offset="1" style="stop-color:#FFE2D0"/>
+</linearGradient>
+<polygon id="triangle36_416_" class="st65" points="1238.2,42.5 1200.4,-14.8 1167.4,50.4 "/>
+<linearGradient id="triangle36_188_" gradientUnits="userSpaceOnUse" x1="-3.8036" y1="103.3999" x2="-3.1935" y2="102.7898" gradientTransform="matrix(-116 0 0 83 802 -8492.6426)">
+	<stop  offset="0" style="stop-color:#FFDECD"/>
+	<stop  offset="1" style="stop-color:#FFDECC"/>
+</linearGradient>
+<polygon id="triangle36_417_" class="st66" points="1238.2,42.5 1187.5,93.2 1167.4,50.4 "/>
+<linearGradient id="triangle36_189_" gradientUnits="userSpaceOnUse" x1="-8.4952" y1="102.0831" x2="-7.8851" y2="101.473" gradientTransform="matrix(-54 0 0 133 740 -13522.6416)">
+	<stop  offset="0" style="stop-color:#FEE5D4"/>
+	<stop  offset="1" style="stop-color:#FEE4D4"/>
+</linearGradient>
+<polygon id="triangle36_418_" class="st67" points="1200.4,-14.8 1192.4,-30.7 1167.4,50.4 "/>
+<linearGradient id="triangle36_190_" gradientUnits="userSpaceOnUse" x1="-3.6237" y1="101.3483" x2="-3.0136" y2="100.7382" gradientTransform="matrix(-131 0 0 171 727 -17292.2422)">
+	<stop  offset="0" style="stop-color:#FFE5D4"/>
+	<stop  offset="1" style="stop-color:#FFE2D0"/>
+</linearGradient>
+<polygon id="triangle36_419_" class="st68" points="1192.4,-30.7 1112.5,-53.9 1167.4,50.4 "/>
+<linearGradient id="triangle36_191_" gradientUnits="userSpaceOnUse" x1="-3.0985" y1="103.9104" x2="-2.4884" y2="103.3003" gradientTransform="matrix(-157 0 0 73 719 -7500.6421)">
+	<stop  offset="0" style="stop-color:#FED9C7"/>
+	<stop  offset="1" style="stop-color:#FEDCCA"/>
+</linearGradient>
+<polygon id="triangle36_420_" class="st69" points="1187.5,93.2 1091.8,48.6 1167.4,50.4 "/>
+<linearGradient id="triangle36_192_" gradientUnits="userSpaceOnUse" x1="-3.7743" y1="101.5272" x2="-3.1642" y2="100.9171" gradientTransform="matrix(-124 0 0 171 686 -17292.2422)">
+	<stop  offset="0" style="stop-color:#FEE1CE"/>
+	<stop  offset="1" style="stop-color:#FEDFCC"/>
+</linearGradient>
+<polygon id="triangle36_421_" class="st70" points="1112.5,-53.9 1091.8,48.6 1167.4,50.4 "/>
+<linearGradient id="triangle36_193_" gradientUnits="userSpaceOnUse" x1="-7.3033" y1="101.5406" x2="-6.6932" y2="100.9305" gradientTransform="matrix(-127 0 0 133 -464 -13341.6416)">
+	<stop  offset="0" style="stop-color:#D4868E"/>
+	<stop  offset="1" style="stop-color:#D9898D"/>
+</linearGradient>
+<polygon id="triangle36_479_" class="st71" points="465.8,160.9 406,79.7 388.3,107.8 "/>
+<linearGradient id="triangle36_197_" gradientUnits="userSpaceOnUse" x1="-5.4338" y1="101.6016" x2="-4.8237" y2="100.9915" gradientTransform="matrix(-179 0 0 145 -591 -14619.042)">
+	<stop  offset="0" style="stop-color:#E79792"/>
+	<stop  offset="1" style="stop-color:#DC8B8D"/>
+</linearGradient>
+<polygon id="triangle36_481_" class="st72" points="315.7,19.3 279.1,70.6 388.3,107.8 "/>
+<linearGradient id="triangle36_198_" gradientUnits="userSpaceOnUse" x1="-5.1121" y1="104.8897" x2="-4.502" y2="104.2796" gradientTransform="matrix(-189 0 0 61 -591 -6286.2422)">
+	<stop  offset="0" style="stop-color:#D6878C"/>
+	<stop  offset="1" style="stop-color:#DD8C8D"/>
+</linearGradient>
+<polygon id="triangle36_512_" class="st73" points="388.3,107.8 279.1,70.6 273,89.5 "/>
+<linearGradient id="triangle36_199_" gradientUnits="userSpaceOnUse" x1="-5.4976" y1="110.6316" x2="-4.8875" y2="110.0215" gradientTransform="matrix(-191 0 0 31 -770 -3340.2422)">
+	<stop  offset="0" style="stop-color:#E08F8E"/>
+	<stop  offset="1" style="stop-color:#E59591"/>
+</linearGradient>
+<polygon id="triangle36_515_" class="st74" points="279.1,70.6 162.6,88.9 273,89.5 "/>
+<linearGradient id="triangle36_200_" gradientUnits="userSpaceOnUse" x1="-5.6298" y1="101.6969" x2="-5.0197" y2="101.0868" gradientTransform="matrix(-187 0 0 123 -780 -12344.6416)">
+	<stop  offset="0" style="stop-color:#EC9C94"/>
+	<stop  offset="1" style="stop-color:#DF8F8F"/>
+</linearGradient>
+<polygon id="triangle36_516_" class="st75" points="162.6,88.9 158.9,163.9 273,89.5 "/>
+<linearGradient id="triangle36_201_" gradientUnits="userSpaceOnUse" x1="-2.9931" y1="101.6568" x2="-2.3831" y2="101.0467" gradientTransform="matrix(-203 0 0 143 418 -14481.6416)">
+	<stop  offset="0" style="stop-color:#FFDAC6"/>
+	<stop  offset="1" style="stop-color:#FEDAC5"/>
+</linearGradient>
+<polygon id="triangle36_517_" class="st76" points="1003.9,70.6 997.2,4.7 880.1,-16.7 "/>
+<linearGradient id="triangle36_202_" gradientUnits="userSpaceOnUse" x1="-2.8289" y1="100.5303" x2="-2.2188" y2="99.9202" gradientTransform="matrix(-203 0 0 254 418 -25381.8418)">
+	<stop  offset="0" style="stop-color:#FFD7C3"/>
+	<stop  offset="1" style="stop-color:#FECEBB"/>
+</linearGradient>
+<polygon id="triangle36_518_" class="st77" points="1003.9,70.6 903.2,138.3 880.1,-16.7 "/>
+<linearGradient id="triangle36_203_" gradientUnits="userSpaceOnUse" x1="-4.095" y1="100.4935" x2="-3.4849" y2="99.8834" gradientTransform="matrix(-158 0 0 254 253 -25381.8418)">
+	<stop  offset="0" style="stop-color:#FEC1B0"/>
+	<stop  offset="1" style="stop-color:#FCC7B4"/>
+</linearGradient>
+<polygon id="triangle36_522_" class="st78" points="903.2,138.3 806.8,121.8 880.1,-16.7 "/>
+<linearGradient id="triangle36_204_" gradientUnits="userSpaceOnUse" x1="-3.2032" y1="100.6046" x2="-2.5931" y2="99.9945" gradientTransform="matrix(-212 0 0 227 215 -22730.4414)">
+	<stop  offset="0" style="stop-color:#FBC2AE"/>
+	<stop  offset="1" style="stop-color:#FED4BF"/>
+</linearGradient>
+<polygon id="triangle36_525_" class="st79" points="806.8,121.8 750.7,9 880.1,-16.7 "/>
+<linearGradient id="triangle36_205_" gradientUnits="userSpaceOnUse" x1="-3.0484" y1="102.7222" x2="-2.4383" y2="102.1121" gradientTransform="matrix(-210 0 0 121 215 -12415.2422)">
+	<stop  offset="0" style="stop-color:#FFDBC3"/>
+	<stop  offset="1" style="stop-color:#FFDBC4"/>
+</linearGradient>
+<polygon id="triangle36_526_" class="st80" points="767.8,-74 751.9,-0.2 880.1,-16.7 "/>
+<linearGradient id="triangle36_206_" gradientUnits="userSpaceOnUse" x1="-3.137" y1="108.8667" x2="-2.5269" y2="108.2566" gradientTransform="matrix(-212 0 0 42 215 -4563.4424)">
+	<stop  offset="0" style="stop-color:#FED9C3"/>
+	<stop  offset="1" style="stop-color:#FED8C2"/>
+</linearGradient>
+<polygon id="triangle36_527_" class="st81" points="751.9,-0.2 750.7,9 880.1,-16.7 "/>
+<linearGradient id="triangle36_207_" gradientUnits="userSpaceOnUse" x1="-33.3257" y1="106.387" x2="-32.7156" y2="105.7769" gradientTransform="matrix(-9 0 0 58 1151 -6175.6421)">
+	<stop  offset="0" style="stop-color:#FEE6DA"/>
+	<stop  offset="1" style="stop-color:#FEE7DB"/>
+</linearGradient>
+<polygon id="triangle36_545_" class="st82" points="1451.1,-6.3 1448.1,-41.7 1445.6,-21.5 "/>
+<linearGradient id="triangle36_208_" gradientUnits="userSpaceOnUse" x1="-18.6828" y1="115.9035" x2="-18.0727" y2="115.2934" gradientTransform="matrix(-16 0 0 25 1151 -2902.0422)">
+	<stop  offset="0" style="stop-color:#FEE7DA"/>
+	<stop  offset="1" style="stop-color:#FEE7DA"/>
+</linearGradient>
+<polygon id="triangle36_546_" class="st83" points="1451.1,-6.3 1441.3,-7.5 1445.6,-21.5 "/>
+<linearGradient id="triangle36_209_" gradientUnits="userSpaceOnUse" x1="-8.5467" y1="101.4513" x2="-7.9366" y2="100.8412" gradientTransform="matrix(-114 0 0 153 -547 -15458.6416)">
+	<stop  offset="0" style="stop-color:#F6B5A4"/>
+	<stop  offset="1" style="stop-color:#EC9D94"/>
+</linearGradient>
+<polygon id="triangle36_556_" class="st84" points="415.2,-13.6 406,79.7 345.6,14.4 "/>
+<linearGradient id="triangle36_210_" gradientUnits="userSpaceOnUse" x1="-8.3624" y1="103.0044" x2="-7.7523" y2="102.3943" gradientTransform="matrix(-114 0 0 108 -547 -11101.6416)">
+	<stop  offset="0" style="stop-color:#FECAB2"/>
+	<stop  offset="1" style="stop-color:#FCC8B3"/>
+</linearGradient>
+<polygon id="triangle36_557_" class="st85" points="415.2,-13.6 379.8,-51.4 345.6,14.4 "/>
+<linearGradient id="triangle36_211_" gradientUnits="userSpaceOnUse" x1="-9.7791" y1="101.4396" x2="-9.169" y2="100.8295" gradientTransform="matrix(-99 0 0 153 -562 -15412.6416)">
+	<stop  offset="0" style="stop-color:#E08F8F"/>
+	<stop  offset="1" style="stop-color:#E39492"/>
+</linearGradient>
+<polygon id="triangle36_558_" class="st86" points="406,79.7 388.3,107.8 345.6,14.4 "/>
+<linearGradient id="triangle36_212_" gradientUnits="userSpaceOnUse" x1="-8.2844" y1="101.3859" x2="-7.6743" y2="100.7758" gradientTransform="matrix(-119 0 0 153 -591 -15412.6416)">
+	<stop  offset="0" style="stop-color:#DB8B8D"/>
+	<stop  offset="1" style="stop-color:#ED9F95"/>
+</linearGradient>
+<polygon id="triangle36_559_" class="st87" points="388.3,107.8 315.7,19.3 345.6,14.4 "/>
+<linearGradient id="triangle36_213_" gradientUnits="userSpaceOnUse" x1="-12.5099" y1="102.8824" x2="-11.8998" y2="102.2723" gradientTransform="matrix(-79 0 0 108 -605 -11101.6416)">
+	<stop  offset="0" style="stop-color:#FEDDC6"/>
+	<stop  offset="1" style="stop-color:#FCC7B1"/>
+</linearGradient>
+<polygon id="triangle36_560_" class="st88" points="379.8,-51.4 331.6,-26.4 345.6,14.4 "/>
+<linearGradient id="triangle36_214_" gradientUnits="userSpaceOnUse" x1="-24.0109" y1="105.1634" x2="-23.4008" y2="104.5533" gradientTransform="matrix(-42 0 0 67 -661 -7034.4419)">
+	<stop  offset="0" style="stop-color:#FEC5AE"/>
+	<stop  offset="1" style="stop-color:#FBB9A5"/>
+</linearGradient>
+<polygon id="triangle36_561_" class="st89" points="331.6,-26.4 320,-19.7 345.6,14.4 "/>
+<linearGradient id="triangle36_215_" gradientUnits="userSpaceOnUse" x1="-20.4123" y1="105.5709" x2="-19.8022" y2="104.9608" gradientTransform="matrix(-49 0 0 64 -661 -6728.8423)">
+	<stop  offset="0" style="stop-color:#FEC1AA"/>
+	<stop  offset="1" style="stop-color:#F6AB9B"/>
+</linearGradient>
+<polygon id="triangle36_562_" class="st90" points="320,-19.7 315.7,19.3 345.6,14.4 "/>
+<linearGradient id="triangle36_217_" gradientUnits="userSpaceOnUse" x1="-3.9164" y1="106.9118" x2="-3.3063" y2="106.3017" gradientTransform="matrix(-185 0 0 54 5 -5763.8423)">
+	<stop  offset="0" style="stop-color:#FFDFCA"/>
+	<stop  offset="1" style="stop-color:#FEDEC9"/>
+</linearGradient>
+<polygon id="triangle36_572_" class="st91" points="751.9,-0.2 651.9,2.9 639.1,-30.1 "/>
+<linearGradient id="triangle36_219_" gradientUnits="userSpaceOnUse" x1="-38.5247" y1="103.9097" x2="-37.9146" y2="103.2996" gradientTransform="matrix(-21 0 0 86 -159 -8906.2422)">
+	<stop  offset="0" style="stop-color:#FEDCC6"/>
+	<stop  offset="1" style="stop-color:#FED7C0"/>
+</linearGradient>
+<polygon id="triangle36_575_" class="st92" points="651.9,2.9 639.7,22.4 639.1,-30.1 "/>
+<linearGradient id="triangle36_220_" gradientUnits="userSpaceOnUse" x1="-9.982" y1="101.8256" x2="-9.3719" y2="101.2155" gradientTransform="matrix(-82 0 0 143 -179 -14503.6416)">
+	<stop  offset="0" style="stop-color:#FECEB6"/>
+	<stop  offset="1" style="stop-color:#FAC6B3"/>
+</linearGradient>
+<polygon id="triangle36_576_" class="st93" points="639.7,22.4 589.6,57.2 639.1,-30.1 "/>
+<linearGradient id="triangle36_221_" gradientUnits="userSpaceOnUse" x1="-8.6714" y1="100.7797" x2="-8.0613" y2="100.1696" gradientTransform="matrix(-94 0 0 244 -180 -24522.8418)">
+	<stop  offset="0" style="stop-color:#F8C0AF"/>
+	<stop  offset="1" style="stop-color:#F9C6B4"/>
+</linearGradient>
+<polygon id="triangle36_578_" class="st94" points="589.6,57.2 581.7,-91.7 639.1,-30.1 "/>
+<linearGradient id="triangle36_222_" gradientUnits="userSpaceOnUse" x1="-15.8452" y1="101.9282" x2="-15.2351" y2="101.3181" gradientTransform="matrix(-19 0 0 134 1151 -13582.8418)">
+	<stop  offset="0" style="stop-color:#FFE4D7"/>
+	<stop  offset="1" style="stop-color:#FFDDD0"/>
+</linearGradient>
+<polygon id="triangle36_111_" class="st95" points="1442.3,-6.5 1440.5,75.2 1452.1,-5.3 "/>
+<linearGradient id="triangle36_223_" gradientUnits="userSpaceOnUse" x1="-5.7102" y1="100.792" x2="-5.1001" y2="100.1819" gradientTransform="matrix(-151 0 0 198 -313 -19770.6426)">
+	<stop  offset="0" style="stop-color:#DA8E8F"/>
+	<stop  offset="1" style="stop-color:#DD908F"/>
+</linearGradient>
+<polygon id="triangle36_110_" class="st96" points="558.9,173.5 466.8,161.9 511.3,52.7 "/>
+<linearGradient id="triangle36_224_" gradientUnits="userSpaceOnUse" x1="-1.2703" y1="103.1572" x2="-0.6602" y2="102.5471" gradientTransform="matrix(-174 0 0 103 1320 -10594.6416)">
+	<stop  offset="0" style="stop-color:#FFE4D9"/>
+	<stop  offset="1" style="stop-color:#FEE1D4"/>
+</linearGradient>
+<polygon id="triangle36_109_" class="st97" points="1452.1,-5.3 1449.1,-40.7 1555.2,22.2 "/>
+<linearGradient id="triangle36_225_" gradientUnits="userSpaceOnUse" x1="-2.9274" y1="111.6211" x2="-2.3173" y2="111.011" gradientTransform="matrix(-156 0 0 36 752 -4071.2422)">
+	<stop  offset="0" style="stop-color:#FEE6D2"/>
+	<stop  offset="1" style="stop-color:#FEE5D2"/>
+</linearGradient>
+<polygon id="triangle36_108_" class="st98" points="1208.7,-74.8 1203.2,-62 1113.5,-52.9 "/>
+<linearGradient id="triangle36_226_" gradientUnits="userSpaceOnUse" x1="-3.7918" y1="101.9385" x2="-3.1817" y2="101.3284" gradientTransform="matrix(-144 0 0 118 562 -11919.6416)">
+	<stop  offset="0" style="stop-color:#FED8C4"/>
+	<stop  offset="1" style="stop-color:#FEDAC6"/>
+</linearGradient>
+<polygon id="triangle36_107_" class="st99" points="1070.2,121.6 1004.9,71.6 1092.8,49.6 "/>
+<linearGradient id="triangle36_227_" gradientUnits="userSpaceOnUse" x1="-0.9821" y1="101.8668" x2="-0.372" y2="101.2567" gradientTransform="matrix(-333 0 0 134 1135 -13582.8418)">
+	<stop  offset="0" style="stop-color:#FEE6D9"/>
+	<stop  offset="1" style="stop-color:#FEDCCC"/>
+</linearGradient>
+<polygon id="triangle36_106_" class="st100" points="1442.3,-6.5 1440.5,75.2 1239.2,43.5 "/>
+<linearGradient id="triangle36_228_" gradientUnits="userSpaceOnUse" x1="-0.9886" y1="101.4716" x2="-0.3785" y2="100.8615" gradientTransform="matrix(-330 0 0 142 1132 -14286.4424)">
+	<stop  offset="0" style="stop-color:#FEDACA"/>
+	<stop  offset="1" style="stop-color:#FEDECE"/>
+</linearGradient>
+<polygon id="triangle36_105_" class="st101" points="1440.5,75.2 1383.8,130.1 1239.2,43.5 "/>
+<linearGradient id="triangle36_229_" gradientUnits="userSpaceOnUse" x1="-1.3777" y1="100.7058" x2="-0.7676" y2="100.0957" gradientTransform="matrix(-237 0 0 212 1039 -21160.4414)">
+	<stop  offset="0" style="stop-color:#FDE1D1"/>
+	<stop  offset="1" style="stop-color:#FEDDCD"/>
+</linearGradient>
+<polygon id="triangle36_104_" class="st102" points="1383.8,130.1 1263,172.9 1239.2,43.5 "/>
+<linearGradient id="triangle36_230_" gradientUnits="userSpaceOnUse" x1="-2.8035" y1="101.4064" x2="-2.1934" y2="100.7963" gradientTransform="matrix(-189 0 0 168 596 -16997.6426)">
+	<stop  offset="0" style="stop-color:#FFDECA"/>
+	<stop  offset="1" style="stop-color:#FEDCC7"/>
+</linearGradient>
+<polygon id="triangle36_103_" class="st103" points="1113.5,-52.9 1092.8,49.6 998.2,5.7 "/>
+<linearGradient id="triangle36_231_" gradientUnits="userSpaceOnUse" x1="-3.3334" y1="102.6947" x2="-2.7233" y2="102.0846" gradientTransform="matrix(-155 0 0 108 562 -11009.6416)">
+	<stop  offset="0" style="stop-color:#FFDBC6"/>
+	<stop  offset="1" style="stop-color:#FEDAC6"/>
+</linearGradient>
+<polygon id="triangle36_102_" class="st104" points="1092.8,49.6 1004.9,71.6 998.2,5.7 "/>
+<linearGradient id="triangle36_232_" gradientUnits="userSpaceOnUse" x1="-15.6974" y1="102.1076" x2="-15.0873" y2="101.4975" gradientTransform="matrix(-71 0 0 131 -939 -13318.2422)">
+	<stop  offset="0" style="stop-color:#FCBFAB"/>
+	<stop  offset="1" style="stop-color:#FBB5A2"/>
+</linearGradient>
+<polygon id="triangle36_101_" class="st105" points="177,-13.8 133.7,55.1 161.8,-24.8 "/>
+<linearGradient id="triangle36_233_" gradientUnits="userSpaceOnUse" x1="-4.6623" y1="126.2316" x2="-4.0522" y2="125.6215" gradientTransform="matrix(-164 0 0 15 5 -1885.0422)">
+	<stop  offset="0" style="stop-color:#FEDDC8"/>
+	<stop  offset="1" style="stop-color:#FEDBC6"/>
+</linearGradient>
+<polygon id="triangle36_100_" class="st106" points="752.9,0.8 652.9,3.9 751.7,10 "/>
+<linearGradient id="triangle36_234_" gradientUnits="userSpaceOnUse" x1="-4.0661" y1="111.6983" x2="-3.4561" y2="111.0882" gradientTransform="matrix(-182 0 0 32 3 -3549.4421)">
+	<stop  offset="0" style="stop-color:#FEDCC7"/>
+	<stop  offset="1" style="stop-color:#FED6BF"/>
+</linearGradient>
+<polygon id="triangle36_99_" class="st107" points="652.9,3.9 640.7,23.4 751.7,10 "/>
+<linearGradient id="triangle36_235_" gradientUnits="userSpaceOnUse" x1="-5.3642" y1="100.8439" x2="-4.7541" y2="100.2338" gradientTransform="matrix(-171 0 0 179 -391 -17904.8418)">
+	<stop  offset="0" style="stop-color:#E49791"/>
+	<stop  offset="1" style="stop-color:#DA8C8E"/>
+</linearGradient>
+<polygon id="triangle36_97_" class="st108" points="511.3,52.7 466.8,161.9 407,80.7 "/>
+<linearGradient id="triangle36_236_" gradientUnits="userSpaceOnUse" x1="-5.1702" y1="101.6712" x2="-4.5601" y2="101.0611" gradientTransform="matrix(-171 0 0 153 -391 -15458.6416)">
+	<stop  offset="0" style="stop-color:#EEA195"/>
+	<stop  offset="1" style="stop-color:#F1AB9D"/>
+</linearGradient>
+<polygon id="triangle36_96_" class="st109" points="511.3,52.7 416.2,-12.6 407,80.7 "/>
+<linearGradient id="triangle36_237_" gradientUnits="userSpaceOnUse" x1="-4.1473" y1="100.7147" x2="-3.5372" y2="100.1046" gradientTransform="matrix(-182 0 0 210 3 -21019.041)">
+	<stop  offset="0" style="stop-color:#FAC4B1"/>
+	<stop  offset="1" style="stop-color:#F6B6A5"/>
+</linearGradient>
+<polygon id="triangle36_95_" class="st110" points="751.7,10 640.7,23.4 665.1,138.1 "/>
+<linearGradient id="triangle36_238_" gradientUnits="userSpaceOnUse" x1="-4.535" y1="101.7743" x2="-3.9249" y2="101.1642" gradientTransform="matrix(-229 0 0 140 -710 -14184.042)">
+	<stop  offset="0" style="stop-color:#EC9C94"/>
+	<stop  offset="1" style="stop-color:#EDA79C"/>
+</linearGradient>
+<polygon id="triangle36_94_" class="st111" points="316.7,20.3 177,-13.8 280.1,71.6 "/>
+<linearGradient id="triangle36_239_" gradientUnits="userSpaceOnUse" x1="-15.0778" y1="101.163" x2="-14.4678" y2="100.5529" gradientTransform="matrix(-76 0 0 163 -1031 -16310.6416)">
+	<stop  offset="0" style="stop-color:#FAB9A6"/>
+	<stop  offset="1" style="stop-color:#FECEB7"/>
+</linearGradient>
+<polygon id="triangle36_93_" class="st112" points="120.9,166.1 96.5,66.7 74.5,164.9 "/>
+<linearGradient id="triangle36_240_" gradientUnits="userSpaceOnUse" x1="-6.608" y1="100.9908" x2="-5.9979" y2="100.3807" gradientTransform="matrix(-180 0 0 161 -1071 -16114.2422)">
+	<stop  offset="0" style="stop-color:#FED5C1"/>
+	<stop  offset="1" style="stop-color:#FEEAD9"/>
+</linearGradient>
+<polygon id="triangle36_92_" class="st113" points="96.5,66.7 -13.3,69.7 74.5,164.9 "/>
+<linearGradient id="triangle36_241_" gradientUnits="userSpaceOnUse" x1="-5.6218" y1="100.6332" x2="-5.0117" y2="100.0231" gradientTransform="matrix(-75 0 0 212 841 -21160.4414)">
+	<stop  offset="0" style="stop-color:#FEDACA"/>
+	<stop  offset="1" style="stop-color:#FEE0D0"/>
+</linearGradient>
+<polygon id="triangle36_91_" class="st114" points="1263,172.9 1239.2,43.5 1217.2,109.4 "/>
+<linearGradient id="triangle36_245_" gradientUnits="userSpaceOnUse" x1="-9.8081" y1="102.9586" x2="-9.198" y2="102.3485" gradientTransform="matrix(-116 0 0 100 -1010 -10224.042)">
+	<stop  offset="0" style="stop-color:#F9AC9D"/>
+	<stop  offset="1" style="stop-color:#FCB6A2"/>
+</linearGradient>
+<polygon id="triangle36_90_" class="st115" points="133.7,55.1 96.5,66.7 62.9,5.7 "/>
+<linearGradient id="triangle36_246_" gradientUnits="userSpaceOnUse" x1="-6.4393" y1="102.7589" x2="-5.8293" y2="102.1488" gradientTransform="matrix(-180 0 0 105 -1071 -10715.042)">
+	<stop  offset="0" style="stop-color:#FEC3AD"/>
+	<stop  offset="1" style="stop-color:#FDCFBD"/>
+</linearGradient>
+<polygon id="triangle36_89_" class="st116" points="96.5,66.7 -13.3,69.7 62.9,5.7 "/>
+<linearGradient id="triangle36_247_" gradientUnits="userSpaceOnUse" x1="-9.2706" y1="103.6713" x2="-8.6605" y2="103.0612" gradientTransform="matrix(-128 0 0 92 -1126 -9530.4424)">
+	<stop  offset="0" style="stop-color:#FED6BF"/>
+	<stop  offset="1" style="stop-color:#FDC8B1"/>
+</linearGradient>
+<polygon id="triangle36_88_" class="st117" points="3.7,-50.4 -15.2,-30.3 62.9,5.7 "/>
+<linearGradient id="triangle36_248_" gradientUnits="userSpaceOnUse" x1="-9.5113" y1="102.7123" x2="-8.9012" y2="102.1022" gradientTransform="matrix(-125 0 0 105 -1126 -10715.042)">
+	<stop  offset="0" style="stop-color:#FEE1CE"/>
+	<stop  offset="1" style="stop-color:#FDCAB3"/>
+</linearGradient>
+<polygon id="triangle36_87_" class="st118" points="-13.3,69.7 -13.3,41.1 62.9,5.7 "/>
+<linearGradient id="triangle36_249_" gradientUnits="userSpaceOnUse" x1="-9.2151" y1="102.582" x2="-8.605" y2="101.9719" gradientTransform="matrix(-128 0 0 117 -1126 -11952.4424)">
+	<stop  offset="0" style="stop-color:#FFCBB5"/>
+	<stop  offset="1" style="stop-color:#FDC3AC"/>
+</linearGradient>
+<polygon id="triangle36_86_" class="st119" points="-13.3,41.1 -15.2,-30.3 62.9,5.7 "/>
+<linearGradient id="triangle36_250_" gradientUnits="userSpaceOnUse" x1="-50.7585" y1="111.6042" x2="-50.1484" y2="110.9941" gradientTransform="matrix(-9 0 0 36 752 -4071.2422)">
+	<stop  offset="0" style="stop-color:#FEE6D4"/>
+	<stop  offset="1" style="stop-color:#FDE6D6"/>
+</linearGradient>
+<polygon id="triangle36_85_" class="st120" points="1208.7,-74.8 1203.2,-62 1203.8,-52.9 "/>
+<linearGradient id="triangle36_251_" gradientUnits="userSpaceOnUse" x1="-1.4375" y1="102.0719" x2="-0.8274" y2="101.4618" gradientTransform="matrix(-169 0 0 126 1320 -12795.2422)">
+	<stop  offset="0" style="stop-color:#FED9CA"/>
+	<stop  offset="1" style="stop-color:#FEDDCF"/>
+</linearGradient>
+<polygon id="triangle36_84_" class="st121" points="1555.2,22.2 1452.1,-5.3 1519.8,71.6 "/>
+<linearGradient id="triangle36_253_" gradientUnits="userSpaceOnUse" x1="-1.853" y1="102.0975" x2="-1.2429" y2="101.4874" gradientTransform="matrix(-130 0 0 132 1262 -13384.4424)">
+	<stop  offset="0" style="stop-color:#FFE4D8"/>
+	<stop  offset="1" style="stop-color:#FED9CA"/>
+</linearGradient>
+<polygon id="triangle36_83_" class="st122" points="1452.1,-5.3 1440.5,75.2 1519.8,71.6 "/>
+<linearGradient id="triangle36_256_" gradientUnits="userSpaceOnUse" x1="-27.0377" y1="107.3664" x2="-26.4276" y2="106.7563" gradientTransform="matrix(-17 0 0 53 744 -5719.6421)">
+	<stop  offset="0" style="stop-color:#FEE3D5"/>
+	<stop  offset="1" style="stop-color:#FEE5D6"/>
+</linearGradient>
+<polygon id="triangle36_82_" class="st123" points="1203.8,-52.9 1203.2,-62 1193.4,-29.7 "/>
+<linearGradient id="triangle36_258_" gradientUnits="userSpaceOnUse" x1="-27.1086" y1="105.735" x2="-26.4985" y2="105.1249" gradientTransform="matrix(-17 0 0 64 744 -6784.8423)">
+	<stop  offset="0" style="stop-color:#FEE4D5"/>
+	<stop  offset="1" style="stop-color:#FEE4D4"/>
+</linearGradient>
+<polygon id="triangle36_78_" class="st124" points="1203.8,-52.9 1201.4,-13.8 1193.4,-29.7 "/>
+<linearGradient id="triangle36_259_" gradientUnits="userSpaceOnUse" x1="-3.2399" y1="107.2481" x2="-2.6298" y2="106.638" gradientTransform="matrix(-147 0 0 53 743 -5719.6421)">
+	<stop  offset="0" style="stop-color:#FEE5D3"/>
+	<stop  offset="1" style="stop-color:#FFE3D1"/>
+</linearGradient>
+<polygon id="triangle36_77_" class="st125" points="1203.2,-62 1113.5,-52.9 1193.4,-29.7 "/>
+<linearGradient id="triangle36_260_" gradientUnits="userSpaceOnUse" x1="-3.0831" y1="102.1094" x2="-2.473" y2="101.4993" gradientTransform="matrix(-137 0 0 104 841 -10446.8418)">
+	<stop  offset="0" style="stop-color:#FED8C7"/>
+	<stop  offset="1" style="stop-color:#FEDECD"/>
+</linearGradient>
+<polygon id="triangle36_76_" class="st126" points="1263,172.9 1217.2,109.4 1179.4,136.9 "/>
+<linearGradient id="triangle36_261_" gradientUnits="userSpaceOnUse" x1="-7.2477" y1="105.0496" x2="-6.6376" y2="104.4395" gradientTransform="matrix(-62 0 0 56 766 -5744.2422)">
+	<stop  offset="0" style="stop-color:#FDE1CE"/>
+	<stop  offset="1" style="stop-color:#FEDECC"/>
+</linearGradient>
+<polygon id="triangle36_75_" class="st127" points="1217.2,109.4 1195.9,102.7 1179.4,136.9 "/>
+<linearGradient id="triangle36_262_" gradientUnits="userSpaceOnUse" x1="-2.1111" y1="103.4565" x2="-1.501" y2="102.8464" gradientTransform="matrix(-130 0 0 77 1262 -7857.4419)">
+	<stop  offset="0" style="stop-color:#FEDCCC"/>
+	<stop  offset="1" style="stop-color:#FED3C3"/>
+</linearGradient>
+<polygon id="triangle36_74_" class="st128" points="1519.8,71.6 1440.5,75.2 1507,118.6 "/>
+<linearGradient id="triangle36_263_" gradientUnits="userSpaceOnUse" x1="-1.3145" y1="100.8375" x2="-0.7044" y2="100.2274" gradientTransform="matrix(-218 0 0 157 1257 -15636.4424)">
+	<stop  offset="0" style="stop-color:#EDAFA6"/>
+	<stop  offset="1" style="stop-color:#FBCABA"/>
+</linearGradient>
+<polygon id="triangle36_73_" class="st129" points="1516.8,214.3 1383.8,130.1 1507,118.6 "/>
+<linearGradient id="triangle36_264_" gradientUnits="userSpaceOnUse" x1="-1.2346" y1="102.9511" x2="-0.6245" y2="102.341" gradientTransform="matrix(-202 0 0 90 1241 -9128.042)">
+	<stop  offset="0" style="stop-color:#FFD0C0"/>
+	<stop  offset="1" style="stop-color:#FED0C0"/>
+</linearGradient>
+<polygon id="triangle36_72_" class="st130" points="1440.5,75.2 1383.8,130.1 1507,118.6 "/>
+<linearGradient id="triangle36_265_" gradientUnits="userSpaceOnUse" x1="-0.8472" y1="101.6412" x2="-0.2371" y2="101.0311" gradientTransform="matrix(-333 0 0 163 1135 -16511.6426)">
+	<stop  offset="0" style="stop-color:#FEE8DA"/>
+	<stop  offset="1" style="stop-color:#FEE5D5"/>
+</linearGradient>
+<polygon id="triangle36_71_" class="st131" points="1442.3,-6.5 1239.2,43.5 1265.4,-55.9 "/>
+<linearGradient id="triangle36_266_" gradientUnits="userSpaceOnUse" x1="-4.0919" y1="101.4774" x2="-3.4818" y2="100.8673" gradientTransform="matrix(-105 0 0 163 845 -16511.6426)">
+	<stop  offset="0" style="stop-color:#FFE0D1"/>
+	<stop  offset="1" style="stop-color:#FEE5D5"/>
+</linearGradient>
+<polygon id="triangle36_70_" class="st132" points="1239.2,43.5 1201.4,-13.8 1265.4,-55.9 "/>
+<linearGradient id="triangle36_267_" gradientUnits="userSpaceOnUse" x1="-4.0312" y1="111.7524" x2="-3.4211" y2="111.1423" gradientTransform="matrix(-101 0 0 36 845 -4071.2422)">
+	<stop  offset="0" style="stop-color:#FEE6D4"/>
+	<stop  offset="1" style="stop-color:#FEE6D7"/>
+</linearGradient>
+<polygon id="triangle36_69_" class="st133" points="1208.7,-74.8 1203.8,-52.9 1265.4,-55.9 "/>
+<linearGradient id="triangle36_268_" gradientUnits="userSpaceOnUse" x1="-4.0039" y1="105.3189" x2="-3.3938" y2="104.7088" gradientTransform="matrix(-105 0 0 69 845 -7280.8423)">
+	<stop  offset="0" style="stop-color:#FEE4D5"/>
+	<stop  offset="1" style="stop-color:#FEE6D5"/>
+</linearGradient>
+<polygon id="triangle36_68_" class="st134" points="1203.8,-52.9 1201.4,-13.8 1265.4,-55.9 "/>
+<linearGradient id="triangle36_269_" gradientUnits="userSpaceOnUse" x1="-39.5722" y1="112.3131" x2="-38.9621" y2="111.703" gradientTransform="matrix(-31 0 0 33 -1223 -3736.6423)">
+	<stop  offset="0" style="stop-color:#FFDFC9"/>
+	<stop  offset="1" style="stop-color:#FEDDC6"/>
+</linearGradient>
+<polygon id="triangle36_67_" class="st135" points="3.7,-50.4 -15.2,-30.3 -12.1,-48 "/>
+<linearGradient id="triangle36_270_" gradientUnits="userSpaceOnUse" x1="-5.3723" y1="101.4193" x2="-4.7623" y2="100.8092" gradientTransform="matrix(-191 0 0 170 -770 -17130.041)">
+	<stop  offset="0" style="stop-color:#E69490"/>
+	<stop  offset="1" style="stop-color:#F3AD9F"/>
+</linearGradient>
+<polygon id="triangle36_66_" class="st136" points="280.1,71.6 177,-13.8 163.6,89.9 "/>
+<linearGradient id="triangle36_271_" gradientUnits="userSpaceOnUse" x1="-15.7695" y1="101.2425" x2="-15.1594" y2="100.6324" gradientTransform="matrix(-71 0 0 170 -939 -17130.041)">
+	<stop  offset="0" style="stop-color:#F7B7A6"/>
+	<stop  offset="1" style="stop-color:#F3A498"/>
+</linearGradient>
+<polygon id="triangle36_65_" class="st137" points="177,-13.8 133.7,55.1 163.6,89.9 "/>
+<linearGradient id="triangle36_272_" gradientUnits="userSpaceOnUse" x1="-16.0655" y1="101.6575" x2="-15.4554" y2="101.0474" gradientTransform="matrix(-70 0 0 125 -961 -12541.042)">
+	<stop  offset="0" style="stop-color:#E69792"/>
+	<stop  offset="1" style="stop-color:#F3A498"/>
+</linearGradient>
+<polygon id="triangle36_64_" class="st138" points="159.9,164.9 120.9,166.1 163.6,89.9 "/>
+<linearGradient id="triangle36_273_" gradientUnits="userSpaceOnUse" x1="-10.2572" y1="105.4105" x2="-9.6471" y2="104.8004" gradientTransform="matrix(-110 0 0 57 -961 -5920.4424)">
+	<stop  offset="0" style="stop-color:#FAAD9E"/>
+	<stop  offset="1" style="stop-color:#FAB2A0"/>
+</linearGradient>
+<polygon id="triangle36_61_" class="st139" points="133.7,55.1 96.5,66.7 163.6,89.9 "/>
+<linearGradient id="triangle36_274_" gradientUnits="userSpaceOnUse" x1="-10.2434" y1="101.0647" x2="-9.6333" y2="100.4546" gradientTransform="matrix(-110 0 0 163 -961 -16310.6416)">
+	<stop  offset="0" style="stop-color:#FAB1A0"/>
+	<stop  offset="1" style="stop-color:#FAB4A1"/>
+</linearGradient>
+<polygon id="triangle36_60_" class="st140" points="120.9,166.1 96.5,66.7 163.6,89.9 "/>
+<linearGradient id="triangle36_275_" gradientUnits="userSpaceOnUse" x1="-6.6357" y1="100.6432" x2="-6.0256" y2="100.0331" gradientTransform="matrix(-130 0 0 198 -261 -19770.6426)">
+	<stop  offset="0" style="stop-color:#E39895"/>
+	<stop  offset="1" style="stop-color:#EFA398"/>
+</linearGradient>
+<polygon id="triangle36_59_" class="st141" points="558.9,173.5 511.3,52.7 590.6,58.2 "/>
+<linearGradient id="triangle36_276_" gradientUnits="userSpaceOnUse" x1="-6.5415" y1="100.7514" x2="-5.9314" y2="100.1413" gradientTransform="matrix(-130 0 0 244 -261 -24522.8418)">
+	<stop  offset="0" style="stop-color:#F9BDAD"/>
+	<stop  offset="1" style="stop-color:#F2AFA2"/>
+</linearGradient>
+<polygon id="triangle36_58_" class="st142" points="590.6,58.2 511.3,52.7 582.7,-90.7 "/>
+<linearGradient id="triangle36_277_" gradientUnits="userSpaceOnUse" x1="-14.2991" y1="100.9888" x2="-13.689" y2="100.3787" gradientTransform="matrix(-56 0 0 188 -139 -18836.6426)">
+	<stop  offset="0" style="stop-color:#F3AC9E"/>
+	<stop  offset="1" style="stop-color:#FABBA8"/>
+</linearGradient>
+<polygon id="triangle36_57_" class="st143" points="665.1,138.1 640.7,23.4 630.9,100.9 "/>
+<linearGradient id="triangle36_278_" gradientUnits="userSpaceOnUse" x1="-4.5721" y1="101.7911" x2="-3.962" y2="101.1811" gradientTransform="matrix(-174 0 0 119 -139 -11933.8418)">
+	<stop  offset="0" style="stop-color:#EFA69A"/>
+	<stop  offset="1" style="stop-color:#E9A099"/>
+</linearGradient>
+<polygon id="triangle36_56_" class="st144" points="665.1,138.1 558.9,173.5 630.9,100.9 "/>
+<linearGradient id="triangle36_279_" gradientUnits="userSpaceOnUse" x1="-10.0801" y1="101.8632" x2="-9.47" y2="101.2531" gradientTransform="matrix(-82 0 0 127 -179 -12846.4424)">
+	<stop  offset="0" style="stop-color:#F9BEAA"/>
+	<stop  offset="1" style="stop-color:#F5AD9E"/>
+</linearGradient>
+<polygon id="triangle36_55_" class="st145" points="640.7,23.4 590.6,58.2 630.9,100.9 "/>
+<linearGradient id="triangle36_280_" gradientUnits="userSpaceOnUse" x1="-6.9428" y1="100.857" x2="-6.3327" y2="100.2469" gradientTransform="matrix(-118 0 0 189 -195 -18877.8418)">
+	<stop  offset="0" style="stop-color:#F4AA9C"/>
+	<stop  offset="1" style="stop-color:#EBA299"/>
+</linearGradient>
+<polygon id="triangle36_51_" class="st146" points="590.6,58.2 558.9,173.5 630.9,100.9 "/>
+<linearGradient id="triangle36_282_" gradientUnits="userSpaceOnUse" x1="-5.3025" y1="102.3447" x2="-4.6924" y2="101.7346" gradientTransform="matrix(-83 0 0 108 802 -10947.6416)">
+	<stop  offset="0" style="stop-color:#FFDDCC"/>
+	<stop  offset="1" style="stop-color:#FEDDCC"/>
+</linearGradient>
+<polygon id="triangle36_50_" class="st147" points="1239.2,43.5 1217.2,109.4 1188.5,94.2 "/>
+<linearGradient id="triangle36_283_" gradientUnits="userSpaceOnUse" x1="-9.5539" y1="112.9843" x2="-8.9438" y2="112.3742" gradientTransform="matrix(-47 0 0 25 766 -2714.0422)">
+	<stop  offset="0" style="stop-color:#FEE0CE"/>
+	<stop  offset="1" style="stop-color:#FFDDCB"/>
+</linearGradient>
+<polygon id="triangle36_49_" class="st148" points="1217.2,109.4 1195.9,102.7 1188.5,94.2 "/>
+<linearGradient id="triangle36_289_" gradientUnits="userSpaceOnUse" x1="-17.1866" y1="103.8862" x2="-16.5765" y2="103.2761" gradientTransform="matrix(-27 0 0 70 731 -7133.042)">
+	<stop  offset="0" style="stop-color:#FEDECC"/>
+	<stop  offset="1" style="stop-color:#FEDBCA"/>
+</linearGradient>
+<polygon id="triangle36_48_" class="st149" points="1195.9,102.7 1179.4,136.9 1188.5,94.2 "/>
+<linearGradient id="triangle36_290_" gradientUnits="userSpaceOnUse" x1="-2.4748" y1="103.8012" x2="-1.8647" y2="103.1911" gradientTransform="matrix(-194 0 0 70 719 -7133.042)">
+	<stop  offset="0" style="stop-color:#FEDACA"/>
+	<stop  offset="1" style="stop-color:#FFDAC8"/>
+</linearGradient>
+<polygon id="triangle36_44_" class="st150" points="1179.4,136.9 1070.2,121.6 1188.5,94.2 "/>
+<linearGradient id="triangle36_292_" gradientUnits="userSpaceOnUse" x1="-2.326" y1="102.1388" x2="-1.7159" y2="101.5287" gradientTransform="matrix(-194 0 0 118 719 -11919.6416)">
+	<stop  offset="0" style="stop-color:#FFD8C5"/>
+	<stop  offset="1" style="stop-color:#FFD8C5"/>
+</linearGradient>
+<polygon id="triangle36_43_" class="st151" points="1092.8,49.6 1070.2,121.6 1188.5,94.2 "/>
+<linearGradient id="triangle36_293_" gradientUnits="userSpaceOnUse" x1="-4.4724" y1="105.3223" x2="-3.8623" y2="104.7122" gradientTransform="matrix(-236 0 0 64 -703 -6728.8423)">
+	<stop  offset="0" style="stop-color:#F7AD9D"/>
+	<stop  offset="1" style="stop-color:#FEC5AF"/>
+</linearGradient>
+<polygon id="triangle36_42_" class="st152" points="316.7,20.3 177,-13.8 321,-18.7 "/>
+<linearGradient id="triangle36_295_" gradientUnits="userSpaceOnUse" x1="-8.2593" y1="101.9849" x2="-7.6492" y2="101.3748" gradientTransform="matrix(-138 0 0 131 -964 -13318.2422)">
+	<stop  offset="0" style="stop-color:#FBB9A4"/>
+	<stop  offset="1" style="stop-color:#FAB5A4"/>
+</linearGradient>
+<polygon id="triangle36_41_" class="st153" points="161.8,-24.8 133.7,55.1 77.6,-24.8 "/>
+<linearGradient id="triangle36_296_" gradientUnits="userSpaceOnUse" x1="-8.0924" y1="104.8395" x2="-7.4823" y2="104.2295" gradientTransform="matrix(-138 0 0 77 -964 -8092.4419)">
+	<stop  offset="0" style="stop-color:#FEC8AF"/>
+	<stop  offset="1" style="stop-color:#FECCB5"/>
+</linearGradient>
+<polygon id="triangle36_40_" class="st154" points="161.8,-24.8 125.8,-71.8 77.6,-24.8 "/>
+<linearGradient id="triangle36_301_" gradientUnits="userSpaceOnUse" x1="-9.8327" y1="102.1133" x2="-9.2226" y2="101.5032" gradientTransform="matrix(-116 0 0 131 -1010 -13318.2422)">
+	<stop  offset="0" style="stop-color:#F7A99B"/>
+	<stop  offset="1" style="stop-color:#FBB9A5"/>
+</linearGradient>
+<polygon id="triangle36_39_" class="st155" points="133.7,55.1 62.9,5.7 77.6,-24.8 "/>
+<linearGradient id="triangle36_302_" gradientUnits="userSpaceOnUse" x1="-9.8011" y1="103.6009" x2="-9.191" y2="102.9908" gradientTransform="matrix(-121 0 0 92 -1102 -9530.4424)">
+	<stop  offset="0" style="stop-color:#FDBDA7"/>
+	<stop  offset="1" style="stop-color:#FED0B9"/>
+</linearGradient>
+<polygon id="triangle36_38_" class="st156" points="62.9,5.7 3.7,-50.4 77.6,-24.8 "/>
+<linearGradient id="triangle36_303_" gradientUnits="userSpaceOnUse" x1="-6.43" y1="100.5035" x2="-5.8199" y2="99.8934" gradientTransform="matrix(-109 0 0 257 95 -25634.4414)">
+	<stop  offset="0" style="stop-color:#FBBBA9"/>
+	<stop  offset="1" style="stop-color:#F6BCAD"/>
+</linearGradient>
+<polygon id="triangle36_37_" class="st157" points="807.8,122.8 751.7,10 741.3,166.8 "/>
+<linearGradient id="triangle36_304_" gradientUnits="userSpaceOnUse" x1="-5.3005" y1="100.3659" x2="-4.6904" y2="99.7558" gradientTransform="matrix(-142 0 0 257 3 -25634.4414)">
+	<stop  offset="0" style="stop-color:#FAC5B2"/>
+	<stop  offset="1" style="stop-color:#EEA89C"/>
+</linearGradient>
+<polygon id="triangle36_36_" class="st158" points="751.7,10 665.1,138.1 741.3,166.8 "/>
+<linearGradient id="triangle36_305_" gradientUnits="userSpaceOnUse" x1="-3.6873" y1="102.8375" x2="-3.0772" y2="102.2274" gradientTransform="matrix(-116 0 0 107 802 -10943.4424)">
+	<stop  offset="0" style="stop-color:#FFDFCE"/>
+	<stop  offset="1" style="stop-color:#FFE2D0"/>
+</linearGradient>
+<polygon id="triangle36_35_" class="st159" points="1239.2,43.5 1201.4,-13.8 1168.4,51.4 "/>
+<linearGradient id="triangle36_306_" gradientUnits="userSpaceOnUse" x1="-3.8122" y1="103.4119" x2="-3.2021" y2="102.8018" gradientTransform="matrix(-116 0 0 83 802 -8492.6426)">
+	<stop  offset="0" style="stop-color:#FFDECD"/>
+	<stop  offset="1" style="stop-color:#FFDECC"/>
+</linearGradient>
+<polygon id="triangle36_34_" class="st160" points="1239.2,43.5 1188.5,94.2 1168.4,51.4 "/>
+<linearGradient id="triangle36_307_" gradientUnits="userSpaceOnUse" x1="-8.5138" y1="102.0906" x2="-7.9037" y2="101.4805" gradientTransform="matrix(-54 0 0 133 740 -13522.6416)">
+	<stop  offset="0" style="stop-color:#FEE5D4"/>
+	<stop  offset="1" style="stop-color:#FEE4D4"/>
+</linearGradient>
+<polygon id="triangle36_33_" class="st161" points="1201.4,-13.8 1193.4,-29.7 1168.4,51.4 "/>
+<linearGradient id="triangle36_308_" gradientUnits="userSpaceOnUse" x1="-3.6314" y1="101.3542" x2="-3.0213" y2="100.7441" gradientTransform="matrix(-131 0 0 171 727 -17292.2422)">
+	<stop  offset="0" style="stop-color:#FFE5D4"/>
+	<stop  offset="1" style="stop-color:#FFE2D0"/>
+</linearGradient>
+<polygon id="triangle36_32_" class="st162" points="1193.4,-29.7 1113.5,-52.9 1168.4,51.4 "/>
+<linearGradient id="triangle36_309_" gradientUnits="userSpaceOnUse" x1="-3.1049" y1="103.9241" x2="-2.4948" y2="103.314" gradientTransform="matrix(-157 0 0 73 719 -7500.6421)">
+	<stop  offset="0" style="stop-color:#FED9C7"/>
+	<stop  offset="1" style="stop-color:#FEDCCA"/>
+</linearGradient>
+<polygon id="triangle36_31_" class="st163" points="1188.5,94.2 1092.8,49.6 1168.4,51.4 "/>
+<linearGradient id="triangle36_310_" gradientUnits="userSpaceOnUse" x1="-3.7824" y1="101.5331" x2="-3.1723" y2="100.923" gradientTransform="matrix(-124 0 0 171 686 -17292.2422)">
+	<stop  offset="0" style="stop-color:#FEE1CE"/>
+	<stop  offset="1" style="stop-color:#FEDFCC"/>
+</linearGradient>
+<polygon id="triangle36_29_" class="st164" points="1113.5,-52.9 1092.8,49.6 1168.4,51.4 "/>
+<linearGradient id="triangle36_311_" gradientUnits="userSpaceOnUse" x1="-7.3112" y1="101.5481" x2="-6.7011" y2="100.938" gradientTransform="matrix(-127 0 0 133 -464 -13341.6416)">
+	<stop  offset="0" style="stop-color:#D4868E"/>
+	<stop  offset="1" style="stop-color:#D9898D"/>
+</linearGradient>
+<polygon id="triangle36_28_" class="st165" points="466.8,161.9 407,80.7 389.3,108.8 "/>
+<linearGradient id="triangle36_312_" gradientUnits="userSpaceOnUse" x1="-5.4394" y1="101.6085" x2="-4.8293" y2="100.9984" gradientTransform="matrix(-179 0 0 145 -591 -14619.042)">
+	<stop  offset="0" style="stop-color:#E79792"/>
+	<stop  offset="1" style="stop-color:#DC8B8D"/>
+</linearGradient>
+<polygon id="triangle36_27_" class="st166" points="316.7,20.3 280.1,71.6 389.3,108.8 "/>
+<linearGradient id="triangle36_313_" gradientUnits="userSpaceOnUse" x1="-5.1174" y1="104.9061" x2="-4.5073" y2="104.296" gradientTransform="matrix(-189 0 0 61 -591 -6286.2422)">
+	<stop  offset="0" style="stop-color:#D6878C"/>
+	<stop  offset="1" style="stop-color:#DD8C8D"/>
+</linearGradient>
+<polygon id="triangle36_26_" class="st167" points="389.3,108.8 280.1,71.6 274,90.5 "/>
+<linearGradient id="triangle36_314_" gradientUnits="userSpaceOnUse" x1="-5.5029" y1="110.6639" x2="-4.8928" y2="110.0538" gradientTransform="matrix(-191 0 0 31 -770 -3340.2422)">
+	<stop  offset="0" style="stop-color:#E08F8E"/>
+	<stop  offset="1" style="stop-color:#E59591"/>
+</linearGradient>
+<polygon id="triangle36_25_" class="st168" points="280.1,71.6 163.6,89.9 274,90.5 "/>
+<linearGradient id="triangle36_315_" gradientUnits="userSpaceOnUse" x1="-5.6352" y1="101.705" x2="-5.0251" y2="101.0949" gradientTransform="matrix(-187 0 0 123 -780 -12344.6416)">
+	<stop  offset="0" style="stop-color:#EC9C94"/>
+	<stop  offset="1" style="stop-color:#DF8F8F"/>
+</linearGradient>
+<polygon id="triangle36_24_" class="st169" points="163.6,89.9 159.9,164.9 274,90.5 "/>
+<linearGradient id="triangle36_316_" gradientUnits="userSpaceOnUse" x1="-2.9981" y1="101.6638" x2="-2.388" y2="101.0537" gradientTransform="matrix(-203 0 0 143 418 -14481.6416)">
+	<stop  offset="0" style="stop-color:#FFDAC6"/>
+	<stop  offset="1" style="stop-color:#FEDAC5"/>
+</linearGradient>
+<polygon id="triangle36_23_" class="st170" points="1004.9,71.6 998.2,5.7 881.1,-15.7 "/>
+<linearGradient id="triangle36_317_" gradientUnits="userSpaceOnUse" x1="-2.8338" y1="100.5342" x2="-2.2237" y2="99.9241" gradientTransform="matrix(-203 0 0 254 418 -25381.8418)">
+	<stop  offset="0" style="stop-color:#FFD7C3"/>
+	<stop  offset="1" style="stop-color:#FECEBB"/>
+</linearGradient>
+<polygon id="triangle36_22_" class="st171" points="1004.9,71.6 904.2,139.3 881.1,-15.7 "/>
+<linearGradient id="triangle36_318_" gradientUnits="userSpaceOnUse" x1="-4.1013" y1="100.4974" x2="-3.4912" y2="99.8873" gradientTransform="matrix(-158 0 0 254 253 -25381.8418)">
+	<stop  offset="0" style="stop-color:#FEC1B0"/>
+	<stop  offset="1" style="stop-color:#FCC7B4"/>
+</linearGradient>
+<polygon id="triangle36_21_" class="st172" points="904.2,139.3 807.8,122.8 881.1,-15.7 "/>
+<linearGradient id="triangle36_319_" gradientUnits="userSpaceOnUse" x1="-3.208" y1="100.609" x2="-2.5979" y2="99.9989" gradientTransform="matrix(-212 0 0 227 215 -22730.4414)">
+	<stop  offset="0" style="stop-color:#FBC2AE"/>
+	<stop  offset="1" style="stop-color:#FED4BF"/>
+</linearGradient>
+<polygon id="triangle36_20_" class="st173" points="807.8,122.8 751.7,10 881.1,-15.7 "/>
+<linearGradient id="triangle36_320_" gradientUnits="userSpaceOnUse" x1="-3.0532" y1="102.7305" x2="-2.4431" y2="102.1204" gradientTransform="matrix(-210 0 0 121 215 -12415.2422)">
+	<stop  offset="0" style="stop-color:#FFDBC3"/>
+	<stop  offset="1" style="stop-color:#FFDBC4"/>
+</linearGradient>
+<polygon id="triangle36_19_" class="st174" points="768.8,-73 752.9,0.8 881.1,-15.7 "/>
+<linearGradient id="triangle36_321_" gradientUnits="userSpaceOnUse" x1="-3.1418" y1="108.8905" x2="-2.5317" y2="108.2804" gradientTransform="matrix(-212 0 0 42 215 -4563.4424)">
+	<stop  offset="0" style="stop-color:#FED9C3"/>
+	<stop  offset="1" style="stop-color:#FED8C2"/>
+</linearGradient>
+<polygon id="triangle36_18_" class="st175" points="752.9,0.8 751.7,10 881.1,-15.7 "/>
+<linearGradient id="triangle36_322_" gradientUnits="userSpaceOnUse" x1="-33.4368" y1="106.4043" x2="-32.8267" y2="105.7942" gradientTransform="matrix(-9 0 0 58 1151 -6175.6421)">
+	<stop  offset="0" style="stop-color:#FEE6DA"/>
+	<stop  offset="1" style="stop-color:#FEE7DB"/>
+</linearGradient>
+<polygon id="triangle36_16_" class="st176" points="1452.1,-5.3 1449.1,-40.7 1446.6,-20.5 "/>
+<linearGradient id="triangle36_323_" gradientUnits="userSpaceOnUse" x1="-18.7453" y1="115.9435" x2="-18.1352" y2="115.3334" gradientTransform="matrix(-16 0 0 25 1151 -2902.0422)">
+	<stop  offset="0" style="stop-color:#FEE7DA"/>
+	<stop  offset="1" style="stop-color:#FEE7DA"/>
+</linearGradient>
+<polygon id="triangle36_15_" class="st177" points="1452.1,-5.3 1442.3,-6.5 1446.6,-20.5 "/>
+<linearGradient id="triangle36_324_" gradientUnits="userSpaceOnUse" x1="-8.5554" y1="101.4578" x2="-7.9454" y2="100.8477" gradientTransform="matrix(-114 0 0 153 -547 -15458.6416)">
+	<stop  offset="0" style="stop-color:#F6B5A4"/>
+	<stop  offset="1" style="stop-color:#EC9D94"/>
+</linearGradient>
+<polygon id="triangle36_14_" class="st178" points="416.2,-12.6 407,80.7 346.6,15.4 "/>
+<linearGradient id="triangle36_325_" gradientUnits="userSpaceOnUse" x1="-8.3712" y1="103.0136" x2="-7.7611" y2="102.4035" gradientTransform="matrix(-114 0 0 108 -547 -11101.6416)">
+	<stop  offset="0" style="stop-color:#FECAB2"/>
+	<stop  offset="1" style="stop-color:#FCC8B3"/>
+</linearGradient>
+<polygon id="triangle36_13_" class="st179" points="416.2,-12.6 380.8,-50.4 346.6,15.4 "/>
+<linearGradient id="triangle36_326_" gradientUnits="userSpaceOnUse" x1="-9.7892" y1="101.4461" x2="-9.1791" y2="100.836" gradientTransform="matrix(-99 0 0 153 -562 -15412.6416)">
+	<stop  offset="0" style="stop-color:#E08F8F"/>
+	<stop  offset="1" style="stop-color:#E39492"/>
+</linearGradient>
+<polygon id="triangle36_12_" class="st180" points="407,80.7 389.3,108.8 346.6,15.4 "/>
+<linearGradient id="triangle36_327_" gradientUnits="userSpaceOnUse" x1="-8.2928" y1="101.3925" x2="-7.6827" y2="100.7824" gradientTransform="matrix(-119 0 0 153 -591 -15412.6416)">
+	<stop  offset="0" style="stop-color:#DB8B8D"/>
+	<stop  offset="1" style="stop-color:#ED9F95"/>
+</linearGradient>
+<polygon id="triangle36_11_" class="st181" points="389.3,108.8 316.7,20.3 346.6,15.4 "/>
+<linearGradient id="triangle36_328_" gradientUnits="userSpaceOnUse" x1="-12.5226" y1="102.8916" x2="-11.9125" y2="102.2815" gradientTransform="matrix(-79 0 0 108 -605 -11101.6416)">
+	<stop  offset="0" style="stop-color:#FEDDC6"/>
+	<stop  offset="1" style="stop-color:#FCC7B1"/>
+</linearGradient>
+<polygon id="triangle36_9_" class="st182" points="380.8,-50.4 332.6,-25.4 346.6,15.4 "/>
+<linearGradient id="triangle36_329_" gradientUnits="userSpaceOnUse" x1="-24.0347" y1="105.1783" x2="-23.4246" y2="104.5682" gradientTransform="matrix(-42 0 0 67 -661 -7034.4419)">
+	<stop  offset="0" style="stop-color:#FEC5AE"/>
+	<stop  offset="1" style="stop-color:#FBB9A5"/>
+</linearGradient>
+<polygon id="triangle36_8_" class="st183" points="332.6,-25.4 321,-18.7 346.6,15.4 "/>
+<linearGradient id="triangle36_330_" gradientUnits="userSpaceOnUse" x1="-20.4327" y1="105.5865" x2="-19.8226" y2="104.9764" gradientTransform="matrix(-49 0 0 64 -661 -6728.8423)">
+	<stop  offset="0" style="stop-color:#FEC1AA"/>
+	<stop  offset="1" style="stop-color:#F6AB9B"/>
+</linearGradient>
+<polygon id="triangle36_7_" class="st184" points="321,-18.7 316.7,20.3 346.6,15.4 "/>
+<linearGradient id="triangle36_331_" gradientUnits="userSpaceOnUse" x1="-3.9218" y1="106.9303" x2="-3.3117" y2="106.3202" gradientTransform="matrix(-185 0 0 54 5 -5763.8423)">
+	<stop  offset="0" style="stop-color:#FFDFCA"/>
+	<stop  offset="1" style="stop-color:#FEDEC9"/>
+</linearGradient>
+<polygon id="triangle36_5_" class="st185" points="752.9,0.8 652.9,3.9 640.1,-29.1 "/>
+<linearGradient id="triangle36_332_" gradientUnits="userSpaceOnUse" x1="-38.5723" y1="103.9213" x2="-37.9622" y2="103.3112" gradientTransform="matrix(-21 0 0 86 -159 -8906.2422)">
+	<stop  offset="0" style="stop-color:#FEDCC6"/>
+	<stop  offset="1" style="stop-color:#FED7C0"/>
+</linearGradient>
+<polygon id="triangle36_4_" class="st186" points="652.9,3.9 640.7,23.4 640.1,-29.1 "/>
+<linearGradient id="triangle36_333_" gradientUnits="userSpaceOnUse" x1="-9.9942" y1="101.8326" x2="-9.3841" y2="101.2225" gradientTransform="matrix(-82 0 0 143 -179 -14503.6416)">
+	<stop  offset="0" style="stop-color:#FECEB6"/>
+	<stop  offset="1" style="stop-color:#FAC6B3"/>
+</linearGradient>
+<polygon id="triangle36_2_" class="st187" points="640.7,23.4 590.6,58.2 640.1,-29.1 "/>
+<linearGradient id="triangle36_334_" gradientUnits="userSpaceOnUse" x1="-8.6821" y1="100.7838" x2="-8.072" y2="100.1737" gradientTransform="matrix(-94 0 0 244 -180 -24522.8418)">
+	<stop  offset="0" style="stop-color:#F8C0AF"/>
+	<stop  offset="1" style="stop-color:#F9C6B4"/>
+</linearGradient>
+<polygon id="triangle36_1_" class="st188" points="590.6,58.2 582.7,-90.7 640.1,-29.1 "/>
 </svg>

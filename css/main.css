@@ -88,6 +88,7 @@ a.portfolio-arrow:focus {
 }
 .span-intro {
 	padding-right: 1em;
+	display: block;
 }
 
 .left-about {
@@ -403,9 +404,12 @@ a:visited {
 	position: inherit;
 }
 
-@media (min-width: 450px) {
+@media (min-width: 475px) {
 	h2 {
 	font-size: 3em;
+	}
+	.span-intro {
+		display: inline-block;
 	}
 }
 
