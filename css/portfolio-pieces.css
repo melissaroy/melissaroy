@@ -65,6 +65,11 @@
   .portfolio-imgs img {
     margin: .7em 1.5em;
   }
+
+  .portfolio-imgs {
+    max-width: 80%;
+    margin: 0 auto;
+  }
 }
 
 a.button{
@@ -75,7 +80,7 @@ a.button{
   font-weight: 200;
   
   color:#d7516b;
-  brackground-color:transparent;
+  background-color:transparent;
   border:1px solid #d7516b;
   border-radius:100px;
   
