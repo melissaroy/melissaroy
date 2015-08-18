@@ -4,15 +4,12 @@ Designer: Melissa Roy
 E-mail: r.melissadesign@gmail.com
 Location: Ottawa, Canada
 Website: melissaroy.ca
-Github:
-Twitter:
-Linkedin:
-Behance:
+Github: melissaroy
+Linkedin: ttps://ca.linkedin.com/pub/melissa-roy/64/501/185
+Behance: behance.com/melissaroy
 
 # THANKS
 
-Tutorials © Jane Doe http://websitehere.com
-Stock Image © John Doe http://websitehere.com
 
 # TOOLS
 
