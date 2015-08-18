@@ -50,7 +50,12 @@ html {
     padding-top: 80px;
     text-align: center;
     background: #fff;
-    background-attachment: fixed;
+}
+
+.pieces-section {
+    padding-top: 80px;
+    text-align: center;
+    background: #fff;
 }
 
 .contact-section {
