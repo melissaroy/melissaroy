@@ -87,18 +87,18 @@ a.btn-res:hover{
     width: 100%;
     text-align: center;
     opacity: 0;
-    background-color: rgba(215, 81, 107, .4);
+    background-color: rgba(215, 81, 107, .8);
     transition: all 0.5s ease;
 }
 
     .img-title h5 {
         position: absolute;
-        color: #222;
-        top: 45%;
+        color: #fff;
+        top: 40%;
         width: 100%;
-        padding: 1em 0;
+        padding: 1em;
         text-align: center;
-        background-color: rgba(255, 255, 255, .8);
+        font-size: 2em;
         margin: 0;
     }
 
@@ -108,7 +108,7 @@ a.btn-res:hover{
     }
 
     .img-title h5 {
-      top: 40%;
+      top: 35%;
     }
   }
 
@@ -131,9 +131,15 @@ a.btn-res:hover{
       margin-left: 1%;
     }
     .img-title h5 {
-      top: 40%;
+      top: 30%;
     }
 
+}
+
+@media (min-width: 1000px) {
+    .img-title h5 {
+      top: 40%;
+    }
 }
 
 /* Individual Pieces Detailing */
